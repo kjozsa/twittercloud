@@ -1,0 +1,1348 @@
+tweets
+"any of my casual #Linux gamer friends want to try Google #Stadia? I have a buddy pass to give away 3 months of cloud gaming for free. After setting up my #Chrome properly, it's really working flawlessly, amazing stuff"
+"my wired 300Mbps connection is confirmed by both
+@fast.com and @Speedtest. It's measured as 9.309 Mbps by @GoogleStadia.. and the #Stadia input latency is unbearable indeed"
+so true
+rotfl
+my favourite own photo from the last 2 years #madebypixel. Looking forward to the Google #Pixel4 pushing this to the next level..
+just watched 45 mins of #Cyberpunk2077 gameplay. Put this into a VR helmet and noone will want to live IRL anymore
+the most important #scala book for #kotlin.. yay!
+microservice = some random shit I wrote in some random language I wanted to play with at that time
+"current status: ""pray for loadtest"""
+"it's so much fun watching my 7yo playing @grumpygamer's #theCave, a fantastic game which hardly even existed when he was born :) He loves the knight most.. what's your favorite character?"
+"$ sudo curl -sS    | sudo php
+
+so many things gone wrong in this single line.. I wish I had a #tshirt with this :D"
+I played #Jenga with the #JetsonNano and stripped over 4gb of packages from the default installation without making it collapse. I wish there was a minimal debian/arch distro around with all the #NVidia libraries available..
+"ok, a much more complex model could score up to 97% accuracy with 94.4% val_acc"
+Could anyone train a model for #Fashion-MNIST with a validation accuracy over 0.90? I could easily reach that but can't get higher... #MachineLearning #DeepLearning #TensorFlow
+#jira time tracking is the single best #motivation killer I know
+playing with #OpenCV's realtime face detection in #python - face recognition to come soon..
+"just heard about #TikTok today first in my life. If this is part of the human #evolution, I'm not sure if I'd be more scared or more amused by this phenomenon"
+"#Wizzair should actually charge extra for the possibility to enter last, not first to the waiting booth (or to the airplane by the matter). What a missed business opportunity.."
+"gathered mixed feelings on the #Tensorflow course of @lmoroney. It's very pragmatical, crystal clear and very much hands-on, but I finished all 4 weeks materials in less than 4 hours on a single day. It's not me being that genius either, it's the amount of resources available..."
+"finished the #DeepLearning specialization on #Coursera. 5 courses, 16 weeks, can't count the hours spent, but totally worth it.. recommended! :)"
+quick task for the brave: find an official #openjdk 8 #linux tarball on the net in under 30 minutes - I gave it up sooner than that
+a quick game of #Amoeba on @gitlab today - green won!
+my cat detector in action #coursera #NeuralNetworks #blackmagic
+spent another 2 hours fixing #fancontrol for my #nvidia card under #linux. Damn me if I ever buy a laptop with hybrid graphics again
+"if you struggle to top up your @RevolutApp card with HUF, sign up for a   card and use it to top up R. Use the code XDO9WY6E for Curve to get £5, top up Revolut at middle rates paying HUF using your bank card, and yes, Curve ship its cards to .hu addresses"
+"#Refind quickly made it to my android homescreen, picking up the smartest, most interesting stories. Join here to get some coins too:"
+"Possibly zombie container is disconnected from network bridge.
+
+HAPPY HALLOWEEN @GitlabCI !!!"
+cheers to the guy who managed to release a new #maven:3.5 #docker image reusing the existing version but with changed behaviour. You probably own a few million dollars to the world now :)
+"looking forward to the Big Blue Hat, it will probably reach never-seen depths of the commercialized #opensource industry"
+Atlassian's #JIRA in 2004 was a pretty good issue tracker. JIRA in 2018 with its latest UI is a #clusterfuck.
+"Seriously, @INXPO? #AWS #onlineexperiences #innovate2018"
+"see how much you spent on #android apps, and more importantly, reinstall your purchased old games with a click :)   - I got to $130.. what're your stats?"
+very impressive numbers and growth of #kotlin developers. #kotlinconf18
+"hats off to @tomsplanner, got from registration to finished project plan in <10 minutes. Excellent introduction video and outstanding usability, that's how this should be done!"
+the only #docker manual you'll ever need:
+I have ZERO idea how people managed to deal with this for so many years. #virtualbox #win7 #hell
+"if you don't use an original #Google rom on your #Android device, sorry, you have no idea what Android is all about"
+"today marks the day when I first heard the term ""#nodejs application server"" on an #architecture meeting. I hoped it will die sooner."
+the battery powered #Gillette Fusion ProGlide razor was easily the best $20 I have ever spent in my life
+the cake is a lie.. but the #Pie has just arrived #Android9 #teampixel
+"omg, finished @thimbleweedpark.. on #hard mode.. alone, without a walkthrough.. oh, wait"
+here's a closed box with an unknown problem inside. How much time does it take to solve it? #softwaredevelopment
+"if you learnt the office alarm code by heart, it's a warning sign.. that should not happen."
+"in an ideal world, @postmanclient should be an @intellijidea plugin."
+how far is the technology used by Google #Duplex from implementing the hosts of #Westworld? 20 years? Less?
+"I'm really in love with @HashiCorp #Terraform, but it desperately needs a new logo"
+#Chrome on Android deprecated the bottom navigation bar? Nooooooo :(
+`#git checkout -` goes to the previously checkout out branch (as in `cd -`). No idea how I missed this for 10 years or so :)
+"I use @CamScanner 1-2 times every month, like it a lot. Wanted to pay for it to acknowledge their hard work but there's no way I'll ever get into a subscription for this. Guess it's easier to make a great product than finding a working business model.."
+"cracked, rooted and pulled LineageOS on an old #Xiaomi Mi4C today. Only took about 4 hours.. I was _almost_ missing this :)"
+"I wonder what's #Google training in with humans behavior in the #WhereIsWaldo game. These experiments are so exciting, hope we'll know the details soon."
+oh and use my invite link if you plan to join -
+and the #portrait mode is spectacular #teampixel
+"coming from the #nexus5x, things are happening pretty fast in #teampixel"
+Happy Search A Flower Shop On #GoogleMaps Day!
+it's interesting how much is in a name.. think they killed the whole platform with this single move. Anyone remembers #Typesafe or what is it called now? :)
+I couldn't even list the morals of this great story:   #npm #js #fuckwits
+"as if #Teslas weren't cool enough already, now they can even mine cryptocurrencies for strangers while speeding - eat that, #Benz!"
+this
+What the hell is a Junior #Enterprise #IT #Architect?
+the first #robot #ski tournament looks way most interesting than any other winter challenge I have seen recently -
+"#JDK stable, secure or free - can choose two now. This no overlap of updates policy seems like a bad idea."
+VIM!!
+experts on the field
+"`cat /proc/cpuinfo | grep cpu_insecure`
+
+if this matches, your kernel already has the KPTI patch -"
+That left me laughing in tears. #npm
+tl;dr - we are doomed
+"read this thread, we are writing history these days"
+"not sure which is more outrageous news: 
+- all #Intel CPUs losing up to ~30% performance patching a design flaw ( ) or
+
+- Intel #CEO selling all company stocks as news started to arise ( )"
+"suspending #JVM startup until the #JPDA remote debugger connects is a neat trick, saved the day today"
+"there, I said it: the #nexus3 repository server is plain freakin' lame and you should just be using #nexus2 instead"
+"playing #Starcraft2 flawlessly on an Intel videocard, in 4k resolution, running on battery, without any noise, on Linux with #wine.. Hell, it's about time!"
+#scalaX 2017 conference review from my friend @lachata_k - I'm so sorry I missed that one :(
+things to avoid in #Bangkok: eat a good spoonful of green #chili believing it's green beans
+"let me write you the #retrospective of any #IT project in advance:
+- lack of communication 
+- uncertainty
+- lack of action over these
+You are welcome."
+I love #AWS #Beanstalk no-downtime rolling updates - way cool!
+online teamwork from a Thai museum's garden cafe with a multinational team discussing a post-golive fix plan sharing #IntelliJ screens over phones - check
+so 2017..
+"# ln -sf /usr/share/zoneinfo/Asia/Bangkok /etc/localtime
+for the next two weeks :)"
+"if you also run a #linux #laptop, do yourself a favour and run `#powertop --auto-tune` at startup. Haven't heard my fans since then and battery life seems to be about twice as much now"
+"- You know #Transferwise, right?
+- Guess so.. it's not a #Steam game, is it?"
+"""#sbt's syntax is just honestly sinful. It looks like something the germans would have come up with... 70 yrs ago... in a submarine."" - I do feel your pain :)"
+"first they ignore you, then they laugh at you.. and the #TOP500 supercomputer all run #Linux now and you know you were right 20 years ago ;)"
+"I was sure an #archlinux install will be fun on a #ZBook 15"" screen in #4k"
+so anyone knows when the #C5 #EC2 instances will become available in ap-southeast-1 / #Singapore?
+"today's favourite #paste #tool
+
+NAME
+    clbin: command line pastebin:
+
+SYNOPSIS
+    <command> | curl -F 'clbin=<-'"
+"""folder name as a service"""
+"#FTL is the indie game I played the most in the last years, this looks at least as much fun - let's help making it happen!"
+best #AWS #ECS manual I've seen to date - just works!
+I never thought I would ever take #Microsoft's approach over #Google's but the #BurgerGate case forces me doing so -
+I wish @SlackHQ wouldn't ask for a profile picture and offer a tutorial for my 6th #Slack site I'm registered on with the same email address
+it's amazing how hard it is to get different parties on the same project to even talk to each other to exchange information they both seek
+how many #cpu cores do you have at home? I counted 38 cores..  (and counting only the ones for general use)
+"anyone knows if I can reset my @Spotify preferences? #DiscoverWeekly has turned into #WeeklyHorror recently, I'd rather retrain that #AI"
+a reinforcement learning AI with zero base data to build knowledge on? Welcome to the new era -
+that moment when you get an automatic #Slack notification that your #AWS #Beanstalk instances have auto-scaled up under load.. #cloud #magic
+I like the idea of @apiaryio but not it's pricing.. it's probably a no-go as it is at the moment
+"hey @Twitter, I want no no-op(!!) #bug on my #android notification bar, just get this outta here"
+Bitcoin explained from scratch
+how about a #gitlab Adult Edition where we play you double and you don't let the kids around blow up production twice a week?
+these #Pixel2 phones look okay.. but what we really wanted was a bezel-less #Nexus
+am I the last one on Earth reading #ApacheCamel documentation on their site? These inline snippet templates stopped working many months ago
+"""leave me for a few minutes, I'm busy terraforming"" is the coolest excuse I ever had #terraform #AWS"
+"#CloudCraft has the funniest commercialization plan ever, being a drawing tool, they limit not the options but the paper size"
+nice to see #Firefox taking off again.. I gave up on them only about 6 months ago at last
+"#gitlab could be a pretty well thought out service.. apart of its UI design, its notoriously bad performance and its crap availability :("
+"go play #Polytopia. It's like #Civilization on the go, fast, strategic, a perfect fit for mobile"
+cloud architects rock
+the dark patterns of @bookingcom to manipulate users -   - kudos to the Most Annoying Site On The Internet Ever
+achievement unlocked: configured HTTPS mutual authentication with custom certificate authority.. and KeyStore Explorer is my new best friend
+there are NINE different ways to write multiline strings in YAML -
+why the fuck would I want to tweet or send to facebook *any* text selection from a @Microsoft @SQLServer documentation?! #idiotseverywhere
+"when you hire a 0-day junior, ask him to pass his SSH public key and get no questions.. jackpot :)"
+Appearently you are not supposed to send email to poor people in #OWA
+ohh that's a thing of beauty: remote code execution #vulnerability on older #SpringBoot Whitelabel error pages -
+"the ""new #JIRA experience"" rolled out to cloud customers has a real ""run away screaming"" effect on the first look 😱-"
+- in case anyone's interested. That's exactly what I was looking for.
+"#deepin #screenshot is a fantastic tool, I have no idea how I lived without it -"
+I'd give my left hand for a #Swagger validator with some common sense and human-readable error messages
+"#PHP forums are an infinite source for #geek humour. 
+
+Got a Permission Denied error? - chmod 777 recursively! - Yeah, just what Erik said!!"
+"it's official, I'm a #PHP expert!"
+#AndroidO looks promising on the #Nexus5X but where the hell is the Pixel Launcher?! Google Launcher is sooo 2015 :)
+hmm have to try this :)
+it's funny how#GooglePhotos algorithms discover the same enhanced and downloaded photo again and offer new round of enhancements in a loop..
+"I waited a week before the judgment but can't help it, the #CitroenC3 is a sorry excuse for a car"
+"loved #AustrianAirlines. After 10+ years of flying with the cheapest carriers, I completely forget that air travel can be a nice experience"
+"it's scary how a freshly deployed #ElasticBeanstalk instance on #AWS receives a couple of /phpMyAdmin, /mysql etc attempt requests instantly"
+"No, when a client moves ""unsubscribe from all email"", you don't have to send a ""thank you for updating email preferences"" email /cc @magento"
+"oh, fresh programming language stats -"
+#rotfl #genius
+"I just love how ""wine StarCraft2.exe"" gets you a well.. completely working #StarCraft2 these days on #linux"
+"stock #glassfish 3.1, download, unpack, start, 4+ pages of #OSGI errors. Stock glassfish4, download, unpack, #JSF console redirects in loop"
+"#linkedin is possibly the most pointless website I'm a member of, I wonder why I did not abandon it years ago"
+"my brain is hopeless. Getting it to listen to Indian English accent for 5+ minutes, it goes down to suspend mode automatically :("
+"the word you are looking for is ""clusterfuck"" #budapest #ejegy #bkv"
+"""the delegator first delegates to an intermediate delegate, and that delegate delegates to another delegate"" #API #Security #PieceOfCake"
+configured my 4 extra mouse buttons with #xbindkeys to do something useful. Only took me about 1.5 hours or so.. #sowhat? :P #linuxpowered
+is it me or #Twitter on the web looks different every week? Not exactly fancier.. but slightly differently lame
+"and it's blazing fast too. Well done, Mozilla!"
+"All @ManningBooks technical books are 50% off today with the coupon ""wm070417lt"" - #GETSOME"
+"if you're also short on sdcards, #PINN is a fine tool to multiboot your #RaspberryPi -"
+collaborative #BPM modelling with #Camunda? wow -
+"on any website, looking for any random tool: ""You can install via Node Pack^W [tab closed]
+I need tools which will stay around for 6+ months"
+"it's official, I can't watch #Interstellar. Gave it three runs, did not reach the one-hour mark in total. It's just fuckin incredibly boring"
+"I reconsider my early denial of #kotlin. With the industry support it has, it might become the logical next step #java devs seek for long"
+"I guess most of us has a file on the desktop called ""faszom"". Mine seems to hold a partial LDAP dump holding LDIFs - what's in yours? :)"
+"#ChromeHome's bottom tabs on android is a really bizarre.. no, wait, a brilliant idea!"
+it's remarkable how most software projects benefit much more from #scaling down than scaling up.
+I repeatedly crash my #Chrome tab on Linux with #GooglePhotos. I wonder if everyone at @Google uses #Firefox or how else this aint fixed yet
+achievement unlocked: flashed a new #android ROM in the bath.
+"#Chrome users, how can one send tabs back and forth across mobile and desktop? Not browsing history but opening tab directly on the other.."
+oh and #loveatfirstsight :D
+#office365's Focused Inbox feature did a great job sorting all the low prio scam into Focused and the few important mails to Other #welldone
+"should you want to meet all your neighbors in a hotel in underwear, organize a fire alarm at 1AM. Tried it last night, works brilliantly"
+"linux gaming: buy your AAA game, realize it won't start on your updated system 2 months after release, play through till it starts, you won!"
+Ubuntu kills the Unity desktop -   #toldya
+"browsing around @IBM developer tools is really a trip to the #past. Dog slow page loads, 404 on every 3rd click, obsolete pages everywhere"
+I wonder why there's no ready-made app helping with this process. Should be pretty straightforward to do it even on a phone
+I'm getting tired of waiting for the inevitable death of current JS+REST #architectures. It's probably time to start re-educating the world
+cc @balintmorocz @lachata_k
+"fun fact: #google #streetview ""cars"" look pretty unusual in Venice"
+amazing article - never knew #instagram people would fight that much only to grow a legion of auto likes and bot followers :D
+should your kids beg to draw a rabbit at Saturday 7AM too:
+I'm completely pro-EU but this # http #cookie regulation remains completely ridiculous. It delivers the #dailyWTF feeling each and every day
+"yay, #ApacheWicket 8 has #Java8 lambda support for models. This is the last reasonable Java web framework I know.."
+in case you live under a rock: #StarCraft is free from today!! -
+"oh no, terrorists in #24Legacy are using #Oracle to store their sleeper cell list.. now HOW EVIL IS THAT!"
+".. and there we go again, my old friend"
+one really cannot execute a warm-up scenario with @GatlingTool which does not get measured and included in the report? #loadtesting
+still not sure what a Monad can be used for? Here's the most straightforward practical explanation you will find
+fired the cleaning lady at home and #gradle at work today - I'm not sure which one made a worse job on its own field.
+an instructive #shapeless journey from my #Scala mate
+this looks awesome. I really need to get back to Elm
+a recommended read about why #RethinkDB failed -
+the most important hands-on skill on #ipv6 is still how to disable it on all fronts. Amazing 10 years of #failure (and counting)
+another Tuesday night in the city with friends and #pizzaque
+"I had set up @jenkinsci today with working #kerberos #SSO authentication on #Linux from scratch in 60 minutes. Come, kneel before me Mortal!"
+"""reports of terrible battery on the new 15"" #MBP life are inaccurate, and in response, #Apple removed the' time remaining' indicator"" #rotfl"
+an in-depth review of this year's #scalax conference by my mate @lachata_k -
+"""open source software is our shared digital infrastructure"" #scalax"
+it didn't take 15 minutes to get me want to use #Shapeless in my Scala code NOW. Fascinating #scalax talk by @davegurnell
+"I'd pay +20% to @Ryanair for a 2.5 hours long evening flight having the lights off and flying in silence. Steal the idea, make it happen."
+"heading to London to my fourth #scalaX event,  exciting times ahead! I hope we'll get a good overview of the future of the language"
+that's a real thing of beauty
+I haven't worked with a non-HD screen for years now. It's amazing how a 1366x768 resolution destroys both productivity and work morale
+"December is a great time to show your support for parties you care about. Protect the open web, donate to @Mozilla -"
+"eat that, #JS"
+to all you dads out there
+"if I swear I'm an expert user and promise not to blow up anything, can I get apt-get back on my #LibreELEC installation? Pretty please?"
+geez #elmlang 0.18 is out for two days now and I missed this news completely. See the upgrade guide here:
+"the HR term ""dedicated #devops team"" is probably not as catchy as it first sounds /cc @cakesolutions"
+the funny part of all #monad explanations is that they are only funny once you already understood what monads are -
+you can't beat #vim
+Santa came early this year - #ddd #fp #scala
+"is there a simple way to mark all #linkedin emails as #spam in gmail? 
+""Real deadline is asap."""
+"my favourite docker container status on #RedHat's #OpenShift is ""CrashLoopBackOff"". Tells a lot about what you can expect in the time coming"
+".. and despite this interview made me day, I'm still having lots of fun with the #FLHaskell course, recommended :)"
+"- You are teaching #haskell for 20 years, tell us a single practical use of it
+- You can combine 6 numbers with arithmetics  to match a 7th!"
+"based on the #Akka #documentation, I have absolutely no clue what to import to use this method. Is it me or is it #scaladoc this time?"
+I do hope @playframework 2.5's dependency injection gets deprecated before I have to migrate my code from 2.4
+a full house of #docker lovers gathering at Docker 1.12 Budapest #meetup
+#gradle composite builds FTW! -
+it was only 20 days shy from taking 4 complete years to grabbing it but it actually looks like an excellent read #AkkaInAction #ManningBooks
+agree completely
+I need to stop buying games I don't play. Buying books I don't read seems to be a much more mature hobby. #needmoretime
+it's totally amazing how far mobile #photography has got in the past years -
+a warm welcome to @Spotify's assumed new #datascientist who managed to score a 40+% hit rate over the previous months 1% in #DiscoverWeekly
+#reallifestories
+"#LibreELEC has its own #Spotify Web Connect addon in the official repo and it works out of the box, awesome!"
+What's wrong with Object-Oriented Programming? -
+that's cheating
+nightmares tell a lot about ppl. Woke up today after being forced to using #RHEL for desktop AND having a puncture in my brand new run-flat
+University of Glasgow's #functional  programming course starts in a week -   - it's still not late to join! #FLhaskell
+"it's kind of funny to see a ""how to roll your own #linux distro"" article now - we did ours with @pnc_ in 1999 :) #beenthere #donethat"
+the future is bright (and functional)
+innovation
+yawn #iPhone7 yawn yawn
+there's a lot to learn from the #hashrocket #websocket shootout and its recent #haskell entry - and yeah it had its funny moments :)
+and Elm in Action seems to be half off today at @ManningBooks if you're ready to board this train
+man #elmlang :)
+true story bro
+"I trust @waze without a second thought. If it says jump in the lake, then that's the fastest route."
+"beautiful, hired :)"
+"""If that’s not zen, I don’t know what is."" -   - #elmlang #frontend #zen"
+you can also have a look at #purescript
+keep losing focus in @intellijidea at Open Class / Open File dialog in #linux? -
+"#FirstSevenLanguages 
+BASIC 
+Pascal
+C
+Java
+Python 
+Ruby
+Haskell"
+to stay on the optimistic side..
+"testdriving @elixirphoenix, a change made in the source *appears instantly* without touching the browser?? what the hell is going on here :)"
+"mesh networks, farm deployment and rolling updates -   - made easy with #docker #swarm"
+it's totally amazing to watch a coworker spend net 8 hours on #facebook without interruption. I wouldn't accept such a job ever.
+a few interesting points on software development with #Scrum -
+"I'd trade #twitter's ""show me less like this"" for ""fuck off and don't ever bug me again"" anytime"
+"I wish @Blizzard_Ent would change it's attitude towards #Linux, a native #Starcraft 1 HD would be an enormous hit -"
+"I wanted to rant about @AtomEditor being completely unnecessary but it grew on me meanwhile. It's fast, clean and has great #elmlang support"
+"""#Vim wasn't built in a day"""
+now that I got hooked on #docker 1.12's new #Swarm based on this:   - how is it still missing from #archlinux?!
+this is what Amazon’s homepage looked like when it launched 21 years ago -
+domination should never be a goal itself but I would welcome it as a natural consequence :)
+"it just gets too long for a simple, pure #functional language to appear for the #JVM and dominate this miserable scene. Oh, hello #frege?"
+"""as soon as I start wondering if a code generator would improve things, I think the programming language has pretty much failed me."" - +1"
+noooooooooo :(
+is there any point in 0~bracketed #paste mode1~ besides completely ruining a useful feature?
+"great guy, recommended"
+that means having Bioshock and Metro on our i965s /cc @GyorgyAbraham
+#ohwell
+the purple-skypeweb plugin for #pidgin is a great alternative to running the official #skype client on #linux -
+"want #Spotify Connect on your #RaspberryPi streaming to your home amp? Configure it now:  , thank me later."
+"I can't get used to #Lightbend, it feels so awkward. While we are all about regrets this week, could we get back #Typesafe please?"
+I welcome the fact how any decent developer job posts these days state a requirement on using #macos or #linux. High time to get some sense.
+"I've yet to see a single #Brexit supporter, similarly to our local election last time. How am I always in contact with the minority only?"
+#docker question of the year still stays unanswered at #DockerCon
+done w/ #progfun2 on #coursera. FRP was fun but I'm glad I did not pay for it. Can't get rid of the feeling that I've seen all that before..
+we got a #Slack Hawk Down - another reason to consider a self-hosted #Mattermost instance?
+years ago #headhunters spent < 5s with a candidate's CV. These days candidates spend < 5s with a headhunter's offer.. #showerthoughts
+"hey #Google, which part of a sheet should be changed accidentally? #GoogleSheets"
+#java8's Optional.of(x) throwing NullPointerException when x is null is a brilliant gig. I'm not sure though how it made into the final spec
+pretty excited about @coursera's #progfun2 scala course. It's been too long since I last took such a challenge.. sure that'll be fun again!
+#CivilizationVI is announced and looks really exciting -   - any news on the #linux version? /cc @gamingonlinux
+"I absolutely love @bastiankrol's #Elm Friday series -   - an outstanding intro to a beautiful #language, recommended"
+the #Elm language looks really interesting.. I hope I'll see some practical use of the years I spent with studying #haskell
+Food doesn't really go 'bad' something just starts eating it before you do. #showerthoughts
+"one of the coolest #bash tricks indeed, try it out!"
+"when have doubts interpreting any legacy crap's documentation, always believe in the worst possible version. #IBM #mqseries #reallifelessons"
+inspiring thoughts from @vfarcic at the #craftconf #devops meetup. Never thought into the innovation aspect of #microservice development..
+reduced my laptop's oversized #touchpad area to avoid accidental touches with 3 simple commands. #linuxpowered
+`tail -f fuse.log | ccze -A` - colorize your heartless #logs and turn them into smart content prepared for #humans
+"""toss eighteen trillion coins in the air for a while and a few of them are going to keep landing the same side up for a long, long time"""
+choose your poison
+The #typonazi I became with age.. #microsoft #iot #buisness
+indeed!
+I can't get rid of the feeling that #scala has lost most of its momentum in the last months. Could someone prove me wrong please?
+"by far my favourite #docker #error message is: `TypeError: a bytes-like object is required, not 'str'`"
+not sure I see the selling point of a #smartphone-driven #coffee machine but appearently you can buy it already:
+"the #rustlang tutorial kicks off with writing a guessing game. Nice choice, I do that with any new language/framework for ~25 years now :)"
+a new default skin is coming for #Kodi 17-
+"a tool for assisted blue-green deployment with #docker? Hello #DockerFlow, welcome on board -"
+"""My resume is really just a list of things I hope I never have to do again."" #showerthoughts"
+#ubuntu is picking #zfs as it's preferred FS for containers from 16.04 -
+"just discovered #mattermost as an open source #slack alternative. If the test-drive from #docker goes smooth, we'll switch in a second.."
+"got enlightened today of the 22 parameters mystery in #scala: 10 was too few, 11 was better and got doubled for extra safety.. cool!"
+let's get this party started #lightbend #budapest #meetup
+about cheap trees and expensive bits.. #amazon #kindle #specialdeal
+I got to work more on self control. Had no chance to restrain from ordering a #rpi3 today..
+"the official #akka documentation on #AkkaStreams is really commercial grade, but a mobi version for #kindle would be a nice addition"
+join us and meet the @typesafe/@lightbend team in #Budapest next week at the budapest.scala #meetup -
+it's a bit tricky to claim #Lagom *is* #opensource with its source becoming available sometime in March /cc @lightbend
+all I want for Christmas is a stable #docker storage driver.. better make it Eastern though
+dig up your own #tweets from the #past with this simple java project -
+"replaced #ddwrt with #tomato firmware on my e2000 #router, the wireless performance exploded. Should have done this years ago.."
+"#LetsEncrypt  is a free, automated, and open certificate authority (CA), run for the public’s benefit -   - #security"
+how many #Java devs does it take to parse a #SOAPEnvelope from a byte array?
+it always feels right to package a single 470 bytes long shell script into a 2k jar file with #maven.. welcome to the #enterprise!
+"""To enjoy #Spotify, please install Adobe #Flash"" - you must be kidding me dude"
+complete #Google's security checkup today for +2Gb free cloud storage -
+#ohwell
+.. and Don't Starve - #Shipwrecked looks too great to miss
+"oh no, more lemm^H^H^H^H#steamsale"
+"an interesting, openionated view on the current state of #bitcoin -"
+#docker 1.10 and #compose 1.6 are out in the wild now -
+I'm not exactly sold on either #iproute2's syntax or it's output formatting -   - #nettools was readable at least
+"well done #swiftkey, you made my day!"
+"#springboot banners ftw! -   - and +1 for the XML specification, you can't go #enterprise without that"
+"judging by a 5 days long evaluation period, #maternity is not all that difficult, as long as you don't run out of paper towels"
+the day when your brand new foiled @HP laptop arrives with a power-on password enabled and no notes in the package..
+"an #rpi driving an RC car, a fascinating experiment -   cc: @b0c1 @dnsmusic"
+"oh the glory days when we rolled our own mini #linux distro back in 1999.. we've come a long way, baby"
+looking for a #docker base image with #jdk8? #alpinelinux brings it down to 117 MB -
+"gosh, if wouldn't every linux #gaming session start with 2 hours of fixing #steam itself.."
+still having crashes with #kernel 4.3 and #docker? This link explains the problem and shows how to fix it:
+"never again, #ApacheCamel"
+"my #stackoverflow question ""#Docker Registry 2.0 - how to delete unused images?'  has reached 2500 views.. yeah, I agree it's a notable one"
+building your own wired router is an easy but interesting challenge -   - but how about a wireless one?
+"""lack-of-money driven architecture"" - #reallifestories"
+#homeoffice FTW
+linux #kernel 4.3 + #docker 1.9 = #NoLove
+happy new year #scala! -   - I hope these goals will stick this year
+"it's high time to get this year started, I depleted all the news six time a day since xmas"
+"in other news, new year resolution will remain FHD on 15.6"" but paired with an I7 6820HQ, 32gb ram and an M.2 ssd.. #zbookstudio \O/"
+"new year resolution for 2016: learn #systemd and #journalctl properly at last, as they really seem to stay with us for a while"
+"I'm not really fond of the new @intellijidea branding. Every time I see IDEA 15's splash screen, it looks pretty lame.."
+"""there's no school like the oldschool, and I'm the fuckin headmaster"" - #movietime #rocknrolla"
+"I do love those sponsored #weblogic on #docker tweets. Some people just refuse to get the point, don't they.."
+how can we let off some steam if #Steam is down?!
+"Intel #AMT sounds exactly like a hardware #backdoor technology made official, with a proven exploit which works even when it's disabled"
+watch the talks from #DockerCon EU 2015 online -
+I donated to @mozilla today because I #lovetheweb. Join me and help build + protect the Web forever
+Erik Osheim's talk from Scala Days mentioned by @milessabin -    (pdf) #scalax
+#  really looks like a command line  http client for humans -
+"#scala gag of the day: "".. it's actually a Try“ #scalax"
+"from hello to monad transformers in 30 mins with @noelmarkham at #scalax, awesome talk!"
+"strong consistency is the wrong default, always think in consistency boundaries #scalax"
+"failure is completely natural, treat it like anything else -  @jboner talking about #resilience at #scalax"
+teaching and custom built #DSLs rarely match #scalax
+"we can't fill #scala documentation gaps with #haskell. Or rather, we really shouldn't.. #scalax"
+"when to use Try, Option and Either in #scala -   - we'd need more documentation like this #scalax"
+the #Ruby community has scaled successfully.. their code didn't do that well #scalax
+awesome inspiring keynote by @jessitron on important aspects of scaling intelligence to outer space #scalax
+just landed in London for #scalax starting tomorrow - prepare for massive twitter coverage.
+project #jigsaw missing the #Java9 release train again? I wonder if somebody shouldn't get fired over there..
+it's freakin' incredible what you can get these days for $5 -   - and it's 40% faster than Raspberry Pi 1 #PiZero
+Writing code without types is like..
+the day when I Google Translate my own presentation slides from English to my native language.. without any success
+I can't believe how bad @KodiTV on @OpenELEC stutters audio over #NFS. Aint this something trivial which should just get solved?
+the new HP #ZBook Studio looks like it has everything I was looking for in a new #skylake laptop
+I do hate living those days which get into the history books. #ParisAttacks
+my slides on building #reactive systems with #akka are up at slideshare:
+"got my first USB-C cable, it's really convenient.. oh, the #Nexus5X aint bad either"
+anyone wants a #oneplusxinvite? I got one to give away..
+friends don't let friends run #docker on #RHEL
+I absolutely love what happens when you right click on the #PlayFramework logo at   - well done @typesafe :)
+"and well, #remarkjs looks damn impressive turning simple #markdown into shiny presentations -"
+what you need to know about #docker storage driver choices -   - before reality burns down your half-baked setup
+the #scalaX 2015 conference program is out and looking great -   - see you there in a few weeks
+it's been 10 years now and for complex and secure webapp development I still know no better choice than #ApacheWicket
+"most are excited about going reactive and scaling out to the sky, ""Java Rockstars"" still blog about reading files into a string - #omg #1998"
+"Polygon has a hands-on review on the #steambox and steam controller, but I had my hopes much higher than that :| -"
+#Adobe confirms major #Flash vulnerability in all versions on all platforms -   - it's probably time to say goodbye
+"streaming content over 8000 concurrent #websocket connections at 60% cpu load with #scala, #akka and #playframework - awesome!"
+how #Uber scales their real time platform -   - a lot of interesting and questionable choices
+clicking on a disguised link on twitter and have a #pdf download started is the online version of walking into a booby trap. *boom*
+I hope this will help closing the #Java era -   - I'm sick and tired of all the narrow-minded java/JEE devs anyway
+turns out #scalaJS did not become less scary in a year.. let's let it rest for another one
+"well played, @rockpapershot - #cookies #laws #idiotseverywhere"
+"recognized #architecture guideline: ""eventually inconsistent"""
+#gnome 3.18 is out! Did you know that the version number refers the number of times the file selector got redesigned from scratch?
+"does an excellent job of tracking your favourite #music artists and #releases in a dead simple way, recommended!"
+"it's shocking to see new 15"" laptop models with a 1366x768 screen in 2015 - #hp and #lenovo both managed to announce one this week"
+a great example of beautiful #scala #api design -
+my new take on casual gaming: start #retropie and fire up a few random #snes games from 1988-1992. Have fun for 20 mins and then fall asleep
+today would have been a perfect time to return to smoking. I'd really need to get back to writing code or I'll go crazy pretty soon now..
+I wonder how a daily upgraded #archlinux can be 100 times more stable than a commercial #RHEL.. it must be the cathedral vs bazaar syndrome
+nice to see #archlinux coming out top of this year's #reddit /r/Linux survey on the desktop -
+omg how f.ugly that new #google logo is -
+authors should embrace writing short tech books. I'd gladly pay double for a book half as short with the same thoughts expressed neater
+Zero-latency Typing in #IntelliJ IDEA 15 EAP -   #instantget
+"I wasn't always scared off by an easy guide of 26 steps for unlocking, rooting and customizing my #android phone - a clear sign of my age"
+so it seems it was #google blowing up #gps locking in #android #lollipop after all? -
+"it could be a fun job chasing those #lenovo #thinkstation sources leaking the new #P50 with Intel #Xeon E3-1500M, 64g #DDR4 and a 4k display"
+"it's a bit warm here inside at 30C to break in my new #snowboard boots but hey, #WinterIsComing!"
+#git 2.5 brings #worktree support -   - that looks like a keeper when simultaneously working on multiple branches
+I wouldn't be sure that #somethinghappened is not a viral marketing campaign in #windows10. Enable it for 3 days and you get famous for free
+"""As a devops professional in 80 percent of your time you will do operations and in 20 percent development"" - #bestofHR #devops #wat"
+"and @takipid, please double check your otherwise valuable retweeted content because that one really scored below 0  @lukaseder @JavaOOQ"
+noone can become a proper #geek without switching to a #tiling wm
+a nice #REST/#json rant -   - I'd also add security concerns (#OWASP A4)
+"the #debian installer looks the exact same as in #1997. Not a bad thing, just sayin' (I still prefer the #arch way though)"
+"""holiday"" noun /ˈhɒl.ɪ.deɪ/ IT - An uncomfortable short period of time when you turn off #exchange sync on your phone"
+"""quadratic features compute pairwise feature interactions, as they allow us to capture the covariance of the initial timbre features"" #WAT"
+"echo > /dev/tcp/targethost/22
+check targethost's specified TCP port for being open without using #telnet - #bash #linux @climagic"
+"trained my ML model and calc'ed my personal movie recommendations. Turns out I'd watch The Usual Suspects.. 10y old news, still in the queue"
+"I hope that finishing @edXOnline #ApacheSpark and #MachineLearning courses teach me how to type the #python keyword ""lambda"" at the 1st try"
+that's aint your grandma's #kinect -   - #ProjectSoli #Google
+enabling #HTTP2 in #jetty couldn't really get easier -
+a sad day for #apple users -   - it's probably time to change your stored #passwords
+"oh @SlackHQ, don't tell me you can't handle UTF-8 in #Slack channel names.."
+"huge praise to @edXOnline's free #CS100.1x course - excellent video coverage, clear explanations, lots to learn - #datascience #BigData"
+I have no idea how on Earth could I deliver any documentation ever without #BenWebster
+..the day when you realize that your #sysadmin measures load average in #celsius..
+for all you #vim #noobs out there with #love
+"you know @ATTResearch, this #EPL acceptance ritual of yours is outrageous. Better keep #ksh closed-source, I'm sure we'll do fine without it"
+"""Do you think that #reactive programming is a paradigm shift, or just a fad?"" - @PacktPub you gotta be kidding with this survey question :)"
+"TLDR: if one claims he's better off without a type system, he's yet to see a proper one /cc @GyorgyAbraham"
+"if you are another die-hard #scala guy from the #EU, make sure you check out the Curry On Prague conference in July -"
+you know you got a fine #continuousdelivery setup when your team is dare to roll out a new release 4 minutes before the live customer demo
+today marks the day when I first wanted to naturally use #currying with the #java8 stream api (and failed)
+OMG I never thought a #dell notebook would make me drool -   - #xps15 #InfinityEdge
+#edx's free online course about Big Data with @ApacheSpark starts today -   - it's still not too late to join!
+hmm just met #doobie -   - let's take a test drive  /cc @b0c1 @lachata_k
+"load average: 61.65, 33.57, 20.28, 16g mem + 2.5g swap gone - #docker at #work :)"
+creating a 500Gb new virtual harddrive with #virtualbox in over 25 minutes. Did I say #virtual? ⊙﹏⊙
+today's accomplishment: #stub a #spy with #mockito - read on to learn this trick here:
+to the #Java9 #wishlist: add multi-line string support
+join the fun and let's beat the GameSys guys in their own game again -   - cc @lachata_k @MateMagyari @OfficialGamesys
+"Current status: ""Unused images consume 130G"" - #docker private registry #cleanup"
+played hours of #MonkeyIsland2 on my #RaspberryPi today. @grumpygamer's masterpiece is 24 years old now but it's just as amusing as ever \O/
+"""#OSGI: From How #Exciting To How #Disgusting in 21 Days"" - the story is based on actual events ..."
+a really interesting #experiment to strip everything unused from a #docker image -
+"if all you have is a #camel, everything looks like a camel. -   -  #apachecamel #jpa #dudewtf"
+#burton #2016 catalog leaked online -   - #snowboarding #hardgoods #GetSome
+anyone has a #docker #registry 2.0 cleanup #script? -   - #lazyweb #help #please
+"with the right tools, you can tackle #BigData problems in 20 minutes in the bath. We're living in incredible times... #scala #ApacheSpark"
+"#blizzard's #hearthstone is one of the few #mobilegames I keep enjoying after the first two hours. Even better, it's completely #free"
+"as I see it in the moment, taking #OSGI's enormous #complexity is a complete #waste of time with no return value at all - #FuseESB"
+#docker 1.6 platform release is out in the wild -   - time to upgrade the private registries to 2.0 on Monday
+master #git branching interactively -   - it's time to show off your git-fu skills!
+Wundercar is the new way to move in your city. Earn a free ride by redeeming this voucher code: A1JKI.
+"should #gnome 3.16's default #icon size concern you, open #nautilus, find preferences in the Files menu at the top left and set the default"
+a built-in #backdoor API to reach root from any user on #OSX? -   - #apple #security #OMG
+"if you know where to look, #reddit is a frakin' #goldmine"
+"#drawio is incredible - just what I was looking for to draw fantastic looking #diagrams with no setup and no hassle, very much #recommended"
+"Do NOT close this window, refresh this web page, click Back or Forward, or click a URL in another window. If you do so, the meeting will end"
+"#docker, the missing parts -"
+downloading #android #lollipop for my #Sony #Z3compact. See you in 30 minutes.. I hope it'll stay alive :)
+"""New Features in #Java 9"" -   - coming next spring with #sjavac and #projectjigsaw"
+the fact that you need a blog entry to show how to put a #JDBC driver into a #jboss server shows how much their concept sucks /cc @AdamBien
+oh hello #beauty -   - #gnome 3.16 is out and looks better than ever
+showing now required push/pull information on my #bash prompt besides the current #git branch - #linux #climagic
+"""The Microservice Revolution: Containerized Applications, Data and All""   - #microservices #docker #virtualization"
+"OMG #dust.js, did you ever try to load your own site from a #mobile browser?!"
+"echo alias highlight=\""ack --passthru --color-match=bright_yellow\"" >> ~/.bashrc
+ps auxwww | highlight bash
+/cc @climagic"
+"just realized I have no #cron installed at all on my @archlinux. Hello #systemd #timers, nice to meet you -"
+#maven 3.3.1 brought lots of #features -   - project specific default #build options sound particularly useful
+woah #BioshockInfinite really runs natively on #linux.. even if my #nvidia #quadro won't handle much of it
+"there's no excuse for throwing #NullPointerException from your tool meant for end users, ever. Yes, I'm looking at you, #ApacheCXF"
+now that's one properly coated #rpi2 - my #pibow #coupé has arrived
+#docker #achievement unlocked: have 5 connected containers auto-provisioned from the #CI server running on a remote host
+packaged the #IBM #Websphere #MQServer installation today from scratch in <2 hours with #docker. It really became a hands-on skill in days..
+so @amazon charges unused but running @awscloud images in its #free tier plan within the first free year - a $70 lesson learnt
+"played 3 hours of Metal Gear Solid on the #rpi2 with a wireless controller, a flawless experience. Kudos to #retropie and #emulatorstation!"
+#BPMN is such a lame ass joke
+#OMG #retropie really works - flawless #retrogaming on big screen TV with wireless controller #c64 #psx #gba on #rpi2
+#devops for prez!
+so my #jenkins pulls the #ansible script from #git which installs #fig configs on target hosts which provision linked #docker containers
+I wonder why --sig-proxy=false isn't the default option for `#docker attach`..
+miss #lint tooling for #scala? #Abide looks quite promising -
+"#HTTP2 is finished and got approved, see what's new at"
+#docker cheatsheet for your #devops pleasure -
+another praise for @gitblit - had set up secured #git repo hosting on #linux with #ActiveDirectory authentication in less than an hour
+relaxed cruising in the city on a sunny afternoon #wazewin
+it's been a long long time since I got impressed by anything #Java related but #springboot seriously kicks ass
+"damn, I hate writing #goodbye letters"
+production rollout on #Sunday - keep calm and go sledding
+woah #JDK7 reaches #EOL (end of public updates) in 2 months -   - have you upgraded yet to Java 8?
+"don't match your #scala Options, #fold them -"
+#RaspberryPi2 ordered. I only hesitated 6 hours more than I should had.. now it'll take another 5 weeks to get it back to stock - #ouch
+I can't really decide if #systemd development looks damn cool or damn scary these days - look at what's new:
+"confused with the new red `#top` from #procps-ng? Press z, V, 1, y, m, m, t, t, t, W and it's set up. #nokidding -"
+"setting up #cloud deployment is like helping a cow give birth, you're up above the elbow, don't see a word and strongly hope to succeed soon"
+playing with #ApacheSpark I'm happy I skipped all the dark ages of #Hadoop
+the #HP 850 G2 looks like a perfect #linux #laptop -   - but I'd bet my 2nd gen 4core is faster than a 2core #broadwell
+I wonder how many of these $1200 #Sony #walkmans will get every sold -   - #CES2015
+"the #Panasonic SD2500 is the best goddamn #alarm clock I ever had, very much recommended"
+woah haven't seen #Monday for three weeks now. Didn't even realized first it's her.. didn't exactly missed either
+"btw if you have a decent hardware, #Firefox beta is damn impressive on #android, make sure you give it a try"
+I donated to @mozilla today because I #lovetheweb. Join me and help build + protect the Web forever:
+following @headinthebox's guide to #haskell leaves one with beautiful pure code and sh*tloads of unwashed dishes. #enjoy #fp101x
+"dear #lazyweb, I need a photo #printer recommendation with 100% #linux support and network printing. It's not 2003 anymore, you know #Canon"
+"after reading all the incredible bad reviews of #BeyondEarth, I'm pretty close to picking up the original #AlphaCentauri instead for #xmas"
+"""Skype will translate speech in real time"" - man, I wish #Skype could simply transfer chat messages in real time.."
+"best talk of #scalax so far delivered by @runarorama - clear thoughts, excellent presentation, #art and #happiness above all"
+ran out of fuel? @cakesolutions' mocha saves the day at #scalax
+"arrrrgh I need one of these ""I'm fully functional"" t-shirts.. way too cool #scalax"
+incredible 9 minutes of #snooker -   - you need to watch @ronnieo147's latest 147 to actually believe it
+You are currently number 14 in the queue. You should be connected to an agent in about 22:26 - online #support #fail at 12:44 cc @motorolaUK
+"I just can't take anyone seriously praising #JSF in front of #Netbeans, no matter how much of a #rockstar (bah) he is claimed to be"
+#typo of the week: Surrently.
+"declaring #money amounts as float, number of months as BigInteger.. #bestpractices #reallifestory"
+"I wonder how many #production #java #keystores on Earth are running with the password ""changeit"""
+#Linux beating #OSXYosemite #performance in about every benchmark running on the same #macbook air -
+"oops, it looks like #FP101x week 8 excercises got me unprepared tonight"
+"#spotify is a damn good deal for €5, I'm already addicted. Wish it had a feature-complete #XBMC addon too for my #RPi.."
+#colossus looks like an interesting #scala framework to build #microservices -
+"Erik is amusing as ever but parser combinators bore the shit out of me on #fp101x. Also, that looks a pretty awkward way of teaching #monads"
+tuned my colored #maven script to show #gnome desktop notifications on successful/failed builds. No more glaring boring mvn runs for minutes
+the #scalax schedule is now available:   - can't wait to visit #London again in #December
+"yay, @intellijidea 14 #final is released -"
+just show me anyone who doesn't hate the #gnome shell workspace switcher popup whole-heartedly
+you can't beat @waze in the city
+"ORA-01461: can bind a LONG value only for insert into a LONG column
+
+as in:
+
+can't update XMLType, CLOB value is over 4k chars 
+#oracle #wtf"
+I'd use a #feature which syncs reading status between my #kindle book and my paper copy. Anyone forms a #startup on that?
+"""- the sad thing with that typeless javascript world is
+- that it exists
+- ah yes, thanks"" 
+#colleagues #inwork"
+use `git update-index --assume-unchanged filename` to keep local changes untracked by git - a lifesaver with git-svn and an idiot upstream
+so where do I find the 3D button in #firefox to ... #aaaahhhh #gotcha
+Play Sid Meier's Civilization® V for free until Oct 23 @ 10:00am #steam #linux #gaming -
+"to keep your old #extensions working with #gnome 3.14: `gsettings set org.gnome.shell ""disable-extension-version-validation"" true`"
+"#gnome 3.14 has arrived, #arch users celebrate worldwide"
+'agile bookkeeping' sounds like one dangerous practice
+the day you find 1200 org.apache.* classes plain copied into a #jbossweb7 artifact. I have yet to see such a #lame ass gang in the JEE scene
+Today is the 2nd time in my life I see an #authentication system getting introduced with using a #password but no #username - #security #OMG
+a remote #exploit vulnerability caused by #bash?! #OMG -
+"congrats to the #gnome team on the 3.14 release, this looks really awesome -"
+#counterstrike Global Offense^H^H^W Offensive is now public beta on #linux.. #gametime!
+Apple releases U2 album removal tool -   - that alone tells so much of a story #apple #rotfl
+"I wish I had a dollar for every idiot whose article I have actually seen published at @DZone. No, I won't give you a link this time."
+big praise to @Atos for its welcome package. That #chocolate is one of the better ones I've tasted.. appreciated!
+I wonder if Project #Jigsaw makes it's way to #Java9 this time - the upcoming features' list aint look bad:
+haven't had so much #fun coding #Java for months as today rebuilding some UI with Apache #Wicket. It's still the best choice at work as ever
+"according to latest rumours, #nexus6 will be a 5.2"" device based on LG G3, manufactured by a taiwanese company and codenamed Motorola #Shamu"
+"#legal documents should be turned to #programs. Statically checked, compiled, syntactically verified and semantically valid."
+nvidia #shield tablet reviews are convincing but I have no idea what #android games I'd want to play or generally what I'd use a tablet for
+need a #hint how to possibly remember the new name of the #XBMC project.. #kodi just rings no bells at all
+got RWD? Learn to drift from Chris Harris -   looks way more easy than how far I ever got with that topic :)
+"playing with my #akka based #twitter sampler, top hashtags were #MTVHottest, #PopAsiaGOT7 and #4YearsOfOneDirection. How #disappointing :)"
+"#civilization #beyondearth hands-on experiences from @rockpapershot - 
+  - reactive gameplay and storytelling, #yummies"
+and @intellijidea still thinks that my now valid #sbt config class can not be compiled.. #GRRR
+#sbt multiproject #setup with xsbt-web plugin; while(true) { sbt.reload }
+OMG why #civilization5 has no in-built #clock on screen like #civ4 had? just.. one.. more.. #turn..
+"Sid Meier's #Civilization: #BeyondEarth release date announced - October 24th, 2014 - another happy day for #linux #gamers"
+another very accessible #functor/#monads tutorial:   hand-picked from #haskell weekly news
+#android's beautiful upcoming material #design detailed -
+"and no, #agile is not 'lack of process'"
+"our #team has reached a #conclusion today: that's not #waterfall development what we are dropped into, that's the #fountain model"
+(I never thought I'll say that ever)
+"#Scala eXchange 2014 tickets purchased, see you all in December! #scalax #london"
+"hey #gnome team, about the 3.13.3 relnotes, why not add network-aware #proxy settings as well? It'd be really useful for everyone on the go"
+I wish #motorola would release a sexy new #razr with #AndroidL this summer.. that would make me trade my RAZRi without a second thought
+"watching the #io14 news, #materialdesign bought me on the first look -"
+#XCOM: Enemy Unknown is released for #linux and is on #steam already. Looks like native linux #gaming is really becoming a reality this year
+"whenever I'm forced to write code with #jboss #seam during the day, I have to code some #scala / #liftweb at night to remain self-conscious"
+"if you are not using #Anka/Coder Condensed as your #terminal #font, then you really should. #fontwars #typography"
+"..talking of which, #Civilization IV, my personal favorite got a native #linux port too.. time for some serious big-screen gaming tonight!"
+#CivilizationV is released natively on #linux -   - and it's 75% off for another day
+just signed up for Eric Meijer's Introduction to FP course:   - can't wait to see @headinthebox in action again
+#glossy vs #matte notebook screens were no question to me.. until I met this video -
+"on technologies, trends and choices..   - #spring #rotfl"
+the TV series #24 can still condense more action into 9 minutes of an episode than most full-blown movies into 90.. I'm seriously #impressed
+my first day with #eclipse -   - by @thecodinglove
+about the disappointing state of the current #linux opengl driver support -
+"most pathetic bug of the month -   - open for 5 years, ""requires significant redesign of component JS"" - #jboss #wtf"
+"woohoo, #24 #season9 premiers tonight.. and 'they plan another full scale attack' -"
+..dont go sleep on lid close (#systemd) and has complete freezes (#flashplugin + #nouveau). Are we back to the 90s or #wtf is going on?!?
+"seriously, what's wrong with #linux these days? my notebook lost backlight settings (#nvidia), has UI refresh/blinking issues (#nvidia), ..."
+I don't see a valid reason to turning #firefox29 into #chrome but I want the gay rounded tabs go from my browser as soon as humanly possible
+"#OMG #spring you never saw that coming - RT @puffnfresh: Wow, this is hard:   #java"
+how to avoid #oracle #sqldeveloper hanging in 30 mins idle time -   - this buggered me for years now
+"35226 [main] INFO   .DefaultLifecycleProcessor - Starting beans in phase 2147483647 
+#spring #intmax #reallifestory"
+favourite #intellijtip for the week is switching between the opened class and it's unittest by ctrl+alt+T - hey #DevoxxFR here we come!
+more awesome #civilization #beyondearth gameplay details -   - I hope I can put my hands on a #linux #beta version
+I wonder what's the minimum amount of #twitter replies on a topic based on which you can safely claim someone a #troll. It must be < 8.
+#Tesla Model S running #ubuntu -   - the intrusion detection system is pretty much #wtf though
+"#git-svn is a lifesaver when one's forced to work with #subversion, handling many svn #branches in the same git repo makes things so easy"
+"#JSF2 amazes me every time I need to tinker with it. What a #braindead piece of #crap that is, congrats to everyone involved.."
+RT @ManningBooks: New #MEAP! Getting ready to launch #Reactive Design Patterns by Roland Kuhn and Jamie Allen -
+a short video on #gnome312 new features -   - I'm a happy gnome user but I can't get used to those huge flat headers
+29 stunning #photos from #Budapest -   - via @GyorgyAbraham
+I could just watch this all day long instead of working on the #layout -
+"if the #nvidia-#gnome-#clutter trio wouldn't kill my linux desktop performance, I'd never try again #nouveau. Now I'm seriously #impressed."
+"I'm so much fed up of abusing presidential powers in the #US, this just should get stop -"
+the #cron expression '0 15 10 * * ? 2013' is a damn fine way of booking some consulting work for 2014 #justseenthat #reallifestory
+#spritz is an #incredible new approach to #reading -
+enable hw-acceleration for #firefox 64-bit on #linux using proprietary #nvidia drivers: MOZ_ACCELERATED=1 MOZ_GLX_IGNORE_BLACKLIST=1 firefox
+"""If you’re not pissing someone off, you probably aren’t doing anything important""   - yeah, that's how it goes"
+"'Clowns to the left of me, jokers to the right, here I am, stuck in the middle with you '.."
+"#extreme #programming #languages, chapter 14: the #ArnoldC language -   - LISTEN TO ME VERY CAREFULLY - ENOUGH TALK"
+"as a sidenote, the most important skill of an #architect is to see what technologies to avoid at all costs. I also keep a long list of those"
+I have successfully avoided #JSF for years but turns out that this was the best I could do. I just wish #Wicket would have wider adoption
+"A nice, rounded comparison of #haskell web frameworks -   - I can't explain but #yesod still looks scary for me"
+Ever wished for a strategy guide for life itself? Your wish is granted -
+"#russian extreme #slalom -   - the most impressive #snowboarding video I've seen in a while, via @pnc_"
+#coursera team's blog about why they use #scala -   - it sounds a bit happier though than it probably should
+"it's a shame I have zero time for #boardgames these days, would love to try #Caverna once -   - #gameoftheyear"
+today marks the day when my endorsements for #scala overtook the ones for #sql on #Linkedin.. oh #happy day!
+the most #awesome #clock EVER -   - that thing alone justifies buying a 3D printer
+"protected void doCommit() {
+    setComplete();
+    endTransaction();
+    startNewTransaction();
+}
+#txmanagement #reallifestory"
+purchased Beginning #Haskell for the #kindle at last. I wonder if it will be suitable for reading a technical book but will find out soon
+"hey #mozilla, can I please have my donation back? That's definitely not what I paid for -"
+"weekend #horror: installing #windows7 for dad. Incredibly slow, nagging, clueless shit. Only found out it has an audigy w/ a ported #lspci.."
+it's either #twitter has a new #design or the hotel wifi connection in Zurich somehow loads a broken css. I hope it'll be gone soon anyway
+"it's extreme disappointing to see how the word #agile usually stands for ""lack of process"" in project management in practice"
+"thought #msoffice should just import a plain CSV file where the first field is ""ID""? You are wrong.. horribly wrong -"
+a new #haskell book is out: Beginning Haskell: A Project-Based Approach   - looking for reviews and a #kindle version
+"Mark Jason Dominus: Why I like Java   - a razor sharp, brutal honest opinion about what #java has become. Fully agree"
+The State of Apache #Wicket 2014 -   - which is still the best #java #web framework around for so many years now
+"for me, the @thoughtworks tech radar has lost it's credibility years ago -   - #akka in assess, #python3 new? come on.."
+his #carving is not my style but he really learnt a lot from #freestyle @SnowboardAddict lessons -   - /cc @pnc_
+#google selling #motorola mobility to #lenovo? -   - #wtf
+"home-baked ideas and #security by obscurity always makes my day. Easy to get around, funny to recall, they even make a good story at parties"
+..then I endorsed him for #JBoss.. and then he endorsed me for #UML.. then I moved #PHP.. and things just got out of control.. #linkedin
+meanwhile in #Kiev -   - incredible to see those places I have been at 2 years ago like this
+#blizzard turns #starcraft2 multiplayer to a free game for everyone -
+"how #amazon ships your package before you've ordered it -    - well, kinda"
+"public void setType(Type type) { 
+  // read-only 
+}
+#notkiddin #readonly"
+the disable workspace switcher popup extension for #gnome3 is a real life saver -   #usability
+"..which also clearly shows how desperate this move has made me, as I usually can not fix anything which I can not connect to via #ssh."
+"whoever came up with the idea of renaming files from Open File dialogs, I hope you lost your job already. #grumpy #monday"
+play the #regex #golf -   - how far do you get?
+"RT @jboner: ""Every street becomes like a fresh powder run”—I want one, NOW:   /cc @pnc_"
+best game review about the most #wtf game I've seen in a while on @rockpapershot -   - got wood?
+the first round of #steammachines as shown at #CES2014 -
+you thought you're hardcore? #xmonad #haskell #kinesis #advantage
+"#logitech support amazes me every time. Replacing a failed product instantly w/ no hassle is a feature you can not beat, that how it'd work."
+first Monday since middle of December. Feels exactly like how it sounds.
+I haven't been into #bitcoin yet but that was am interesting read -   - any bitcoin fans care to comment on it?
+I really wonder how much market share one can lose by pixel on crucial things like that :)
+"anyone around has experience using #HiDPI screens on #linux, #gnome3 and java apps like @intellijidea? What should one expect these days?"
+"did the last #reactive assignment in <3 hours, written requirements helped a lot. Thanks for the course, it was time well spent. #coursera"
+"I just donated to @mozilla b/c they're building the web the world needs. If you #lovetheweb, too, donate today:"
+"the #steam holiday sales goes on for a while now but @grumpygamer's #thecave for EUR3.5 is a really incredible offer, get it while it lasts"
+"got some water on my laptop keyboard (don't ask), the only lost keys are ( and ). Guess I'll have to stick to #haskell till I get it fixed.."
+"the #kindle #paperwhite is an absolutely awesome device, recommended. Now someone stop me one-click buying books please"
+"$10m for a flawed random generator? -   - This story is so 90's, #NSA needs to get more creative for the new century"
+"a nice comparison of #granturismo6 vs #reallife -   - real life has more ads, gt6 has more shadows"
+"No Caps: Fallout 1, 2 And Tactics Free At #GOG -"
+"""so where are the transaction boundaries in your application? - Huh, what?!"" - and now you know you have a problem"
+"great work @RDio, at last someone who got music streaming right! The web interface is gorgeous, I gotta check out the #xbmc plugin as well"
+the #steamOS will be available tomorrow -   - luckily I *am* an intrepid Linux hacker already.. can't wait!
+"buy it, use it, break it, fix it, trash it, change it, mail, upgrade it -   #daftpunk"
+watching my 1.5 years old executing a flawless backtrack while putting together matching pieces of increasing size - it's clearly Saturday
+"London feels old and dirty but definitely has a unique atmosphere. Oh and some great ales, that too."
+"awesome new #slick tricks are shown at #scalax, looks like with version 2.0 it's really getting there"
+"uh-oh, it's upgrade time again - RT @intellijidea: IntelliJ IDEA 13 is Released! Work Miracles in Java and Beyond"
+I generally don't dig #bdd but #scalatest error messages do look helpful. Not sure it's worth all the implicit hassle though #scalax
+"the best session of the day award easily goes to @sirthias, it was great fun to watch the amazing features of #spray live at #scalax"
+an interesting discussion at @reddit_haskell: What's the deal with Erik Meijer?
+the proper way to finish a #scalaX day
+dependency management is the afghan war of the JVM #scalaX
+I love how everyone states implicits are dangerous and not recommended *unless* it's required for their own favourite trick #scalaX #macros
+An expert is a person who has made all the mistakes that can be made in a very narrow field- nice Niels Bohr quote from @viktorklang #scalax
+HTML is dead - couldn't be put more simply by @dpp #scalaX
+it's a pretty original idea to kick off a scala conference with an intermediate level haskell speech #scalaX
+fasten your seatbelt before getting into week4 of #reactiveprogramming or @headinthebox will spin out of the box sooner than you'd notice..
+"got to work on #windows for 20 mins today. Can't delete files, no wm, no sensible cli, seen 3 update popups. #Hell from the 90s, never again"
+just grabbed the kickstarted #Shadowrun Returns on #steam autumn sale -   - game on!
+"getting ready for #ScalaX early next week: parking check, airplane tickets check, transfer check, oyster card check, time to get presents!"
+"talking to a swiss client in my car using bluetooth to my #android phone running #skype over mobilenet, for free. I just love the #future"
+"I can't wait for the #steammachine, looks like #valve is really shaking the console ground with this move -"
+"the #cakepattern is hardly about the layers of the cake, it's all about the slices.. or I'm not sure what's going on :) /cc @headinthebox"
+time to celebrate an accepted #reactiveprogramming assignment at week 3 on #coursera - #intellij #campari #passion
+how a successful week looks like on #friday at @chesscom
+"I just love Eric Meijer's style on @coursera #reactiveprogramming. Clear, concise, to the point, the best I've seen so far.. time well spent"
+it's not that #gnome shouldn't release beta software as final at all.. but why not fix those nasty crash bugs in the last 7 weeks?! #grumble
+achievement unlocked: ..no... I really can't share this one with you :)
+oh how do I hate discrete event simulation.. why not a fun example? Go for something with #elephants next time #reactiveprogramming #nofun
+"just ordered #Akka #Concurrency by @derekwyatt. As #xmas starts to appear on the horizon, I can never resist to get new books for myself."
+Notes on Distributed Systems for Young Bloods -
+I hack #scala for 2 hours and forget to put returns to my #java code for another two days. I wish they'd go for ever.
+"""IntelliJ IDEA 13 Beta is Available"""
+"hate #jetlag? Give it some years, looks like #cure is on the way -"
+happy to see #java application servers mentioned as a past thing in @coursera's new principles of reactive programming course. go figure
+"Unfortunately Last.fm is no longer able to offer radio in your country. - man, I hate the music industry so much with that #licensing #crap"
+#ps4 launch is only 2 weeks away and I still not decided whether I'd be excited about it or not -   - via @harrym20
+dig out your DB password from #sqldeveloper with this tool -   - pretty useful while making the switch to #dbeaver
+"#Steam Halloween Sale is open till 1st of November, shop on! -   - I need to try #Monaco :)"
+I have yet to see a worse user interface design than #HP #ALM's web interface. This beats #Microsoft #OWA by ages. #usability #fuckwits
+"art of #coding is a niche, mechanical skill practiced by exceptionally dull weirdos -   by the #telegraph"
+"hey @feedly, how about a share to feedly option on #android to subscribe to a blog from the browser?"
+"""Motorola Announces Project Ara, An Open, Modular Smartphone Hardware Platform"""
+6 more years and we're outnumbered on Earth -
+"1000 tweets, 5 days off, first #snowboard tour of the season. oh, happy days"
+"""I know we'd have a build server but we wont""    - this approach wouldn't even qualify for a university project #jboss"
+"working with #oracle #sqldeveloper a couple of times every day, #xkill became my new best friend"
+This is the #Nexus5 -
+"#spray merges with #akka, becomes Akka HTTP -"
+Netscape : 5.0 (X11) is not supported! #hp #ALM #firefox24
+Humble Bundle with Android 7 is an excellent deal and you also get Steam keys for each title -
+wow the new @crystalmethod album is just around the corner -   - they are my all-time favourite in this genre
+#Elite: Dangerous has raised over £1.8M to date and still counting -   - anyone knows an ETA? #cantwait
+there's nothing like #git #bisecting your #svn repo at 19h at the office..
+a conversation-scoped #EntityManager is probably the single worst idea in the last 10 years #jboss #seam
+what I want for christmas is #brightness control back from #nvidia legacy drivers
+just seen in the logs: [INFO] Unregistered handle that was not registered - way to go #org #jboss
+"""Micro planning is when you plan on what kind of micros you are going to get."" #asktheinternet"
+"my #visualvm package for #archlinux just got promoted to be an official one. Happy to see it's popular, sad to let it go.."
+"#xbmc turbocharged on the #raspberrypi -   - wow, can't wait to see that running on my #openelec"
+document your #REST APIs with Swagger -   /cc @dnsmusic
+errm @intellijidea.. I love you honey bunny
+"woot, the touch friendly #TransportTycoon is out for #android -"
+you know what happens in a working #Seam app when I block the IP traffic to the DB with iptables? A ConcurrentRequestTimeoutException.
+"every time I get close to any #jboss project, I'm all amazed with the #incredible #mess they gathered, manage and even try to sell"
+search: 'pingDatabase' - There were no results for your search. Did you mean: 'indictable'? #jboss #community #forums
+"mate, I hate #subversion like no other VCS (no, #TFS does not even count as one)"
+can't wait to watch #Homeland S03 premiere tonight
+the #SteamController is one true 'WTF?' device -   - and I hear all #gamers echo it all around the world just right now
+"meet the #toString #bomb: Java class works as expected, it's just its toString() method which never completes.. #fun #hours at #work"
+meet the #SteamMachines -   - I hope #Valve will end up with something really awesome!
+"yay, #gnome 3.10 is out! -   - counting the days till it ends up in @archlinux"
+the great #linux #world #map -
+"""@HackerNewsOnion: MongoDB adds a ""PLEASE"" keyword for inserts, boosting chance that data is stored to above 75%."" /cc @b0c1 :)"
+"#CCC broke #apple TouchID -   - hands up who's surprised. Fingerprints are not suitable for ID, not even for apple fans"
+"I wonder why the heck there's no @coursera mobile app for #android.. oh wait, there's one! -"
+"make sure you'll have a rainy weekend, get a Friday evening car wash"
+the amazing story of @cyanogen -   - about the proper way a successful company should get built.
+"btw #GTA5, it seems they robbed the bank right on the first day -"
+hmm I wonder which console'd be the best purchase in a reasonable timeframe to run #GTA5 on.. And where is #steambox?
+calling the new #iphone5s futureproof is probably the most ridiculous claim any tech reviewer could come up with. #anandtech #wtf
+get to know the new Mission Control tool of JDK 7u40-
+the #JPA2 #Criteria API is the worst example of API design I've seen in ages. Someone should really be ashamed of this #crap.
+"wow, mentioning the #cakepattern can still generate a few hundred tweets of interesting discussion (ending with the obligatory trolling ofc)"
+"meet a few #Arrows, cook some #HandsomeSoup -   - #evening #fun with #haskell"
+"Error from SVN, (105): No buffer space available: Error running context: No buffer space available #dude #wtf #whereismygit"
+#sbt 0.13 is out -
+'what does not kill you makes you smaller' ~Super Mario
+it's high time for my evening #haskell session to get back from #insanity
+"#gwt/#gxt code looks incredibly fragile. Hidden state, deep conditionals with loose ends, procedural #crap everywhere. And it generates JS.."
+get the new #android #twitter #beta client by becoming a tester -
+Simulating 1 second of real brain activity takes 40 minutes and 83K processors
+"statistics, architecture and lessons learnt at #Reddit -   - an excellent read"
+"as the result of a 35 years old #evolution process, I just crossed the line preferring #peppermint to #spearmint. Who said ppl dont change?"
+a follow-up of @odersky's scala course is starting early November on @coursera  -
+#terminator looks like a worthy gnome-terminal replacement with a really nice feature list and real transparency -
+it's 2013 already and the #microsoft #outlook webapp is still an incredible piece of #shit.
+"pushed OpenELEC to 3.1.6 today. Runs #Aeon NOX much smoother on the #rpi, I hope the idle bug will also be gone with this release"
+"wow, #dungeon #keeper is coming to #android this winter -"
+"""If the integers from 1 to 999,999,999 are written as words, sorted alphabetically, and concatenated, what is the 51 billionth letter?"""
+woah dude aint this a 550 tons #hovercraft just landing on your #beach -   - #russians #rule
+"Dear World, a #usecase diagram is not a use case. It's a frakin diagram."
+with our updated understanding of #privacy I already feel ashamed to have a few private #bitbucket repos around. I have something to hide!
+#facebook #shadow #profiles sound like fun -   - that pretty much covers what #privacy means in 2013
+I hope there's a special #hell for those sinners who are publicly releasing different binary content with an unchanged version number.
+a lightspeed travel from #fizzbuzz to #monoids -
+how to remove ads from YouTube using their experimental feature -
+do you remember Second Reality? Here's the code review..
+John Carmack's keynote on strong static typing and purity -
+"// FIXME: The next code is just for history, to preserve it in case of an SVN merge 
+// ...
+// ...
+#omg #bestpractice"
+Compilation completed with 31 errors and 0 warnings in 14 min 13 sec #hello #gwt
+delivery manager: the team member who coordinates which flag to carry where to in a #CTF game - #GTS thesaurus
+ok maybe #patience is not my strongest skill afterall.. but things seem to turn bright slowly
+"just read about the #spring #boot project. I thought it's a joke but they seem to be serious about it. Whichever it is, I'm speechless.."
+"""Then if p is allowed to be any profunctor you can get an isomorphism. If p is a representable profunctor you can get a lens, etc. "" #aha"
+how the frak did I never hear about #dota2 from #valve?! And it runs natively on #linux.. wow!
+the what do you know about #hungary series on #reddit -   - some excellent insights there on #girls #lecso and #palinka
+in 2001 taking care of 3000+ shell users on my server I scanned for malicious activity and kept stats on findings. They just made it scale.
+#XKeyscore is the new shiz. And you thought you want to know more about #PRISM eh? -
+anyone knows when the book Functional Programming in Scala will ship? cc:@dibblego @pchiusano @ManningBooks
+"sometimes people are just incredible. Fail to communicate, have no trust, can't relay their purpose, mix confidence with arrogance. #fail"
+41C? it's about time to leave the city.. again
+"to keep up with my functional programming skills, I also watched the movie #Side #Effects today. An excellent crime/thriller, recommended."
+"watching these #robots build #Tesla cars   I can't get rid of the #battlestar #galactica line: ""and they have a plan.."""
+there's no better time to casual #gaming than while having a serious #hangover
+there must be a very special yet undiscovered brain area around the anteroventral nucleus or the stria medullares to store #vim shortcuts at
+"forget time, control, state and see how deep the rabbit hole goes -    - a brilliant intro to #haskell"
+just read about #typescript on twitter. Google typescript.. TypeScript is a free and open source programming language developed by Micros^W
+you hear that Doug? I'm coming to #London! Meet you at the @skillsmatter #scala #exchange2013 in December!
+omfg they must be kiddin - Vatican offers 'time off purgatory' to followers of Pope Francis tweets -    via @xeppelin
+you realize your #life must have #changed when for months your to-do email folder only contains invitations for #beers
+#Google is spending $500 million to advertise the upcoming #MotoX -
+time travellers are easy to catch. Just look around and see who is excited about #java in 2013..
+"There's no such thing as null, period. -   #haskell"
+Hey Niko! Meet the new #GTA5 gameplay video -   - via @nyuwec
+"#foursquare failed to find me any ice cream places at Balatonkenese. Generally, 4square failed to find me anything useful EVER #unsubscribed"
+"the architecture #twitter uses to deal with 150M active users, 300K QPS, a 22 MB/S firehose & twits under 5 seconds -"
+celebrate the #roswell anniversary with your very own fake #ufo video! Here's how to make it properly:
+the Velis Auto #Brightness app seems to be the perfect auto-brightness solution for #android -
+woke up from a #nightmare in the morning - got lost without a phone and tried to get home by #bus.. geez!
+"I've got a '65 Cadillac, dum-dum"
+"I did not like LOTR either, but I downright hate the Hobbit. A beautiful tale turned into an american style action-fantasy, what a waste.."
+#quake3 bots evolved to #world #peace -   - via @nicktelford. It's a matter of weights ofc but it's funny enough as is
+"ps. and as always, first one who says fuck that shit and walks out, gets the job."
+"Maslow's pyramid revised, puts parenting to the top -   - internet is still not recognised to belong to the bottom :)"
+the story behind goread.io -
+"enjoying the last minutes of google #reader. Thanks for all the years honey, I loved you too."
+"Monday makes no difference for a full-time dad, it's the same 16-hour shift every day"
+just invented fondl and fondr at #haskell by mistake. Unfondl is under consideration..
+my first prison ran out of money before I'd finish the walls. The second looked ok but had no guards.. #Prison #architect is one tough job.
+"it might be the new myself, but reading either javalobby or javacodegeek now physically hurts. Yeah, even if they write about scala."
+just heard of the upcoming game Prison Architect -   - from the authors of Uplink. Anyone tried the alpha version?
+ever wanted to know what Lorem Ipsum means exactly? Why not try google translate -
+"spent some hours at the #haskell irc channel tonight. This community beats 'em all, they are relaxed, objective and incredibly helpful."
+re: 'enterprise is a mess anyway' on @springrod's keynote: our current choices determine how the enterprise'll look in 5 years. purity rules
+"'8 months in #Microsoft, I learned these' -   - hands up for anyone surprised"
+"'code is like poetry, most of it shouldn't have been written' - from #haskell #weekly"
+#eclipse Kepler is released. First year I don't really care for over ten years.. blame my new addiction to @intellijidea
+btw meanwhile in Brazil..
+Evolution of a Haskell Programmer -   - sad to see I stand exactly at the Another Junior level. #foldl is smart though
+it's amusing #gmail sometimes lets through trivial #spam which could have been caught 10 years ago
+Watch the #ScalaDays 2013 presentations online at @Parleys -
+"enjoying #Worms 2: Armageddon on #android, an excellent port of an all time classic"
+#android design evolution -   - you've come a long way baby
+watching the #Nokia #EOS announcement. I hope the last Nokia phone will be called the Nokia EOF.
+it's useful to realize that a picture is worth a hundred words if you're stuck at the countryside and all you have is EDGE #mobilenet #sucks
+I'm slowly falling in love with @feedly on #android. Feels completely different as #greader but it's clearly growing on me.
+a comprehensive Google Glass review
+I hope this'll spread like wildfire - Brazilian bar designs new beer glass made to keep your eyes off your phone
+"the moment you find a file named }' in your home, the day you realize your #awk #escaping skills still fail sometimes"
+"regarding the @feedly transition, I wonder how others categorize their RSS feeds - by category, by priority or some other way?"
+'Microsoft gives zero-day exploits to US government'   - that's just so full of #crap
+European Union To End Roaming Fees In Summer 2014 For EU Carriers   - yay!!
+I like the new tabbed inbox of #gmail. The Promotions tab is the one I don't have to open ever.
+the Jony Ive redesigns things collection
+my eyes are still screaming at @typesafe's new site. I wonder who (and why) designed white text over that extreme bright blue background
+laughed my head off on the new #ios7 features   where are the raging fanboys this time shouting copycat? :) /cc @nyuwec
+Intel CloverTrail+ processor mops the floor with its competitors   - at last someone is going for low power performance
+the best strategy game ever! - Civ4 is on sale for $5!   via @SorenJohnson @drylight
+looks like #google is grabbing #waze for some coins this time -
+"look ma, if it's not my favorite bank throwing exceptions with user visible stacktraces on #websphere -   #ebank #fail"
+"have not coded a single line for over 2 weeks now. I need something to work on, FAST"
+happy 35! about time for a half-time retrospective :)
+every single attempt I've seen of #functional #Java coding made me shiver so far. The latest example:   #creepy
+"well, at least it shines #flooding #danube at #budapest"
+"every time I start to watch a full-time movie, I invest a serious amount of time of my life. It rarely turns out to be a good idea."
+stopped watching the movie #Limitless when the guy with a 1000+ IQ suddenly realised he'd ran out of his superdrug. What a miserable #crap.
+excellent point on the #xboxone -   #prism
+"szolgalati kozlemeny: az eg bassza meg az osszes okmanyirodankat szemelyestul, telefonostul, honlapostul es magyarorszag.hu-stul. koszonom"
+there are no advanced #vim tutorials. It's a place where man enters alone.
+the most useful intermediate level #vim tutorial I know of has quite a scary title
+the new desktop #gmail favicon looks right as one broken in download -   #crap
+"#archlinux just dropped /bin, /lib and /sbin, moving them all to /usr/ - a bold but logical move -"
+"the new #gmail looks great for android. Fresh, fast, beautiful.. if you don't want to wait, get it here now:"
+text game basics in #haskell   - that's some real pure beauty
+"Chicago Sun-Times fires all photographers, goes for #iphone photos only in the future -   - well, good luck :)"
+had a dream of #clojure being a special kind of baby pants which costs $$$$ but any size fits and you use it 90° rotated.. #geez #3am #wtf
+"a really nice paper from @reddit_haskell: Why Functional Programming Matters (Part 2, in Haskell)"
+Redditor uses Raspberry Pi to skirt China's Great Firewall on the go (Wired UK)
+"huge praise for @Lascal's buggy board maxi. One rarely sees such a smart, well thought product design, great work!"
+started the day at 7. At 21:30 it's still 50% battery left after 1h of calls and 2h of screen time. This stuff rocks. #RAZRi
+"filed my 3rd complaint today on @Citibank. Charged me w/o reason, did not pay interest on time, did not fulfill order. All that in 6 months."
+the recruiter honeypot story -   - I find it amusing how this whole profession came down to one word: @LinkedIn
+..and it's sends no more data to #motorola. I wonder where #android would be today if everyone could unlock and access it's full potential.
+"rooted my new #RAZR i after 3 days. Now it's twice as fast, battery lasts 3* more, uses whole sdcard as internal storage and have no ads."
+"#google switching to proprietary chat protocol -   - #bad, #bad"
+"#nosmartphone day 35, a countdown has begun.. #intelinside"
+"wow, the new #googlemaps is plain awesome!"
+oh great :) RT @lagergren: JavaScript of the day: ++[[]][+[]]+[+[]]  This evaluates to 10. Just wanted to tell you.
+it's not that everything made by microsoft is #crap but these new #xboxone photos look pretty much #wtf
+Invalid stub element type in index: jar:///../akka-actor_2.10/jars/akka-actor_2.10-2.2-M3.jar!/akka/actor/Actor.class @intellijidea hmn?
+meet #JMS 2.0 -   in @javaee7
+excellent scaling with #akka presentation from @scalaconfjp back in March -
+"auto-sniffing   urls from skype messages, #microsoft, really?"
+first #nokia phone I dig in the last 10 years or so -   - can I have one with #android please?
+#nosmartphone day 23 - shopping list made easy
+"promising movie, amazing #F30 shoots :) -"
+thanks to @grumpygamer the Monk's Lotus Blossoms are the most frustrating moments of my entire life.. oh I can WALK as well?! #thecave
+Write your shell scripts in Haskell -
+..and our second child was born today. There goes the rest of my already nonexistent freetime.. :)
+"am I the only one who thinks the colors on #typesafe's new site look #crap? Washed out, unimpressive,unreadable.. I dig the structure though"
+(share only if you lead the list like I do.. ;))
+who authored most lines in your repo: git ls-files -z|xargs -0n1 git blame -we|awk -F'[<>]' '{ print $2 }'|sort|uniq -c|sort -n @climagic
+color/highlight custom regular expressions matches eg. in #weblogic console output in @intellijidea w/ #GrepConsole -
+"played #TF2 tonight - 20 minutes to find a server, about 2 mins to join one. I remember stop playing ET2 when it got to that point. #crap"
+test-driving @HototApp as a Gnome3 twitter client. I dig the dark theme but not sure how to get rid the 'update X pages on schedule' message
+I understand that playing Chick Corea's piano must be pretty hard.. but I doubt it should take 10% CPU on an i7-2630QM. #clementine
+"echo ""alias gti=git"" >> ~/.bashrc #canttype #whocares"
+is there an @intellijidea shortcut to quickly switch between current type's interface and implementation like Ctrl+Shift+T does with tests?
+"to all headhunters, recruiters and HR specialists: we ran out. There are no more #java developers in .HU. Seriously. Please come back later."
+show your style with your colored #maven output using @japgolly's script -
+"How To Sink A Product In 6 Weeks, Chapter 3 - The Wildfly Case Study   #wildmyassfly"
+"private static final String UNKNOWN = ""unknown"";  #enterprise"
+"-Steve, I am to you a bit like Australia. 
+-Australia? 
+-Yes. Very distant, largely uninhabitable, and with areas of great danger.
+#coupling"
+"I have yet to see a functional specification document which is a) complete, b) has no inconsistency, c) useful. #software #development #fail"
+#virtualbox #protip: turn off auto-capture keyboard in preferences to allow desktop keyboard shortcuts work properly over a vbox window
+"#nophone day3, phone is at 74% at 19h. Sound quality is bit weak sometimes, otherwise cant really remember why I dragged a huge board around"
+"hello #gnome 3.8.1, I missed you so much.. #archlinux"
+"#nophone day1: cant check emails, cant check twitter, read no news. Have a recurring lost something feeling. Have read 50+ pages of my book."
+"""This is an ex-parrot.""   - Time for an interesting experiment, living w/ a Nokia 6310i till I get my One S repaired.."
+the moment you hear *blup* and your cellphone lands at the bottom of the bath..
+trim 95% of scanned #pdf: gs -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/ebook -sOutputFile=out in @climagic
+"In other news, #pineapple ice cream is a great choice after having pizza for lunch."
+Set enforce-valid-basic-auth-credentials to false in #weblogic config to stop it intercepting requests with basic auth headers by default.
+I'm still amazed every time I find opensource systems storing cleartext user passwords in their database. #hello #activiti #bpm
+RT @matthewfarwell: Save 50% on SBT in Action with promo code sbtco at  . /cc @b0c1
+"mvn -Dmaven.test.skip ..
+BUILD SUCCESS - Total time: 11:48.770s
+where #slownet meets #enterprise #jarhell"
+frak me if I'll ever try to go to a meetup again
+#YAGNI is probably the single most important software design principle we have learnt in the past 15+ years.
+Please stop releasing new @ScalaIDE update site zips with the same name+version and different content. That's just plain lame /cc @typesafe
+think you rule Snake? Think again.. :)
+have you seen that linux powered 2 tons walking #monster around the corner? Meet the Mantis Hexapod -  !
+"being a pro one learns to work w/o particular feedback.. having said that, it still surprises me how nice it feels to actually get some :)"
+"just learnt about #maven's combine.self=""override"" feature. Teach an old dog new tricks.."
+oh shit it's official now.. I'm all addicted to @intellijidea
+get rid of your CRLF files in your git repo `grep -IUrl $'\''\r'\'' . * | grep -v .git\/ | xargs dos2unix`  /cc @climagic
+"watching Bioshock Infinite gameplay to see what's the fuss -   - some serious art here, cant wait to see that on Linux"
+"""Since April 14, 2007 you have read a total of 107,447 items."" #google #reader"
+"if you are having ClassCastExceptions on entities in your JEE project after a redeploy on #weblogic 12c, upgrade your #EclipseLink version"
+"anyone knows whose line was originally ""one doesn't simply flatmap to Mordor""? It's epic, can't get it out of my head :)"
+I'm glad to see the attempt to update the android #twitter client to Holo. I hope a designer will also have a look at it pretty soon.. #crap
+"enjoying Sunday school at  . Yeah, you should do it too!"
+JavaScript? WAT!   - trying to dry my tears..
+"pure fun from a pure functional community - RT @clementd ""It's hard to troll the haskell community.  """
+"ripping audio cds from the command line with #abcde. Best tool for the job, best name for a tool ever :)"
+Shaun White fps without the shooting part   #snowboarding
+#gnome 3.8 released! -
+"next time I see #oracle salesmen designing architectures, I'll shoot."
+I wish #archlinux's #pacman had a --yes alias to --noconfirm. I have to google it every single time I remove packages from a script.
+it's a #shame that the search function at   does not work for months now.. #hello #somebody??
+I'm all addicted on @FTLgame in 20 mins after getting it on Steam. Probably will not sleep at all this night.. #crap :)
+"it's a pity though that my scala/lift journey has come to an end. Sad to pack up for now, hope to be back soon."
+"huge praise for @arungupta 's Java EE 6 Pocket Guide book! It's short, concise, to-the-subject stuff, excellent source of information."
+"$ git fsck 2>&1 | grep -i invalid\ sha1 | wc -l
+57
+ouch!"
+#RoboCode is back in #haskell -   - pure robots FTW -   \O/
+"arch linux package updated - RT @ScalaIDE Scala IDE 3.0.0 is out.   . With semantic highlighting, Scala debugger, ..."
+"1. enable notification for a custom label, 2. receive such a mail, 3. click on notification, 4. crash #gmail 4.3 for #android - #helloQA :)"
+for all the .hu riders..    #freeride cc:@pnc_ @andrasbekesi @nyuwec
+anyone got €125 million around? The Green Hell is for sale -
+"that's pure gold, programming at its best -"
+'There comes a time in a man's life when he needs his three mine carts back. And that time is now!' #bestlines #thecave #rotfl
+what did I say about anger in the morning? -
+Big G is really building up the anger and it'll all shower down on Google+. A safe way to sink a failed product is get ppl hate it even more
+"just found this great talk from @kelseyinnis on getting into functional programming, recommended -"
+it's amazing how long 7 hours of sleep feels when you are not woken up 3 times a night by your one year old :)
+"Go Valve, go!! - RT @joemckendrick: ""A $4-billion company with no managers? Can it be?  """
+"ok, I hereby signed up @knockoutjs to my to-learn list"
+another f* you moment - Google Picasa URL now redirecting to Google+ albums
+"coding #scala daytime, playing #snooker half the night, a perfect day!"
+sbt-dependency-graph ftw! -
+recently I get more broken pipes on @heroku deploy:war uploads than not. I hope it's something temporary
+I can't go snowboarding anymore this season and ate way too many cheese fondues already. It's high time for spring to come.
+"At the end of the day, you can always cheer yourself up with something starting with 'at the end of the day..'"
+updated the @archlinux AUR package for @ScalaIDE to 3.0RC1 - get it while it's hot!
+"there must be a worse action movie than Impossible Mission: Ghost Protocol, but I've yet to see it :/"
+"I did really enjoy the @jrebel / @Rebel_Labs guys report on JVM languages, but 12 tweets on the same topic is frakin' spamming. #notworthit"
+local root exploit in my #linux kernel?   feels like back to the 90s
+"""It's just XML, what could probably go wrong?"""
+"wake up, Neo.."
+"Back from snowboarding, 3 days of deep powder, a broken binding, a stretched ski pant and a seriously scratched Custom. #freeride #hurts"
+"I really like that stuff - SwiftKey has saved me 5,000 keystrokes! Check it out at"
+so the new #playstation will be a plain pc? I find it hard to become excited.. The #steambox will be hard to beat on its own market.
+The Last Nin^WJDK 6 update from #oracle   I really wonder how this will work for RL customers.
+happy Tuesday afternoon w/ #bath #salt and #scala
+"I knew I'll regret not buying the promotional @intellijidea last xmas, #crap"
+hey @intellijidea what about adding an option to sync IDE settings to the cloud? It'd be so much easier to reinstall / swap machines / etc.
+"browsing #Sony support website, found 2 broken links in 5 minutes :( #crap"
+it's great to have manual backup around when your automatized one just loses 10 years of misc stuff. goodbye @crashplan I loved you too.
+"""There are a couple of reasons you might want to restrict Skype's access to your computer.."" - a fascinating read :("
+raspberry pi status leds explained
+pacstrap /mnt base base-development 41.05s user 9.40s system 30% CPU #arch #install
+I'm glad to see that all SSD alignment optimizations are now handled correctly by the fdisk/lvm/mkfs/etc automatically now #arch #install
+typo of the day: GitHut
+congrats to #linkedin to get a good percent of about 2M people help with their marketing for free :)   job well done!
+miért van minden áldott #index.hu cikkben legalább két vaskos helyesírási hiba?! #miert
+"finished #thecave for the first time. thx @grumpygamer for such an amazing, beautiful tale!"
+"types damn types and mysql, and rails is #owned again"
+"updated my android to 4.2.1. font rendering is much sharper, default keyboard supports swypeing, rom restored apps automatically. love it"
+it's fortunate that one can do about anything with two lines of scala code with #liftweb. I wouldn't have more time to play with it anyway..
+all the amazing #scala books having great discounts this week at #manning and I just realized I already have them all. #crap
+"goodbye permgen, hello metaspace   #java #jdk8"
+"playing #thecave on big screen, huge sound with a wireless controller on my sofa, an awesome experience :) I want my #steambox asap though.."
+"so where is #thecave for #linux? I can't wait much more, I know the trailer by heart already..   #thecaaveee"
+"no dear, you really should not parse untrusted user input into objects automatically..   #rails #owned"
+"my first #sleep with Sleep with Android, 63% deep sleep. This gem works as intended, recommended for gentle wake-ups"
+slept over three hours around noon. Weekend's overrated :)
+I dislike long books. The pages per new thoughts ratio should definitely be kept under pi.
+ma hallottam a konyvelonel.. ez total kesz :)
+I have no idea how I'd organize my music collection without `mmv`
+just met 168k lines of #php goodness. not sure I was missing that
+sort your socks like a pro!   #recursive #hashing #socks
+"received my copy of Scala in Depth today, it looks like an excellent read!"
+"don't tell me it's the top of #java #ddd evolution   I never wanted to end up here and hope 
+@ericevans0 did not either"
+"man, sometimes I just hate #swype's auto-competition. works way to good to check every word, makes a typo in every third tree. trey. tweet!"
+#jmeter_plugins is one out the lesser known must have tools in the universe
+"get if fixed on sunday, blown on monday. another java 0day is out in the wild"
+replay the original Monkey Island sword insult fights online   - I'm rubber you are glue!
+updated my #archlinux package of #scala-ide to 2.1M3 but I'd rather recommend going with #idea CE now..
+I find it really amusing to still meet new blog entries on Struts - there's your proof for time travel!
+thanks for #oracle for patching that glaring security hole within that reflection madness. Again.
+got some #snow this morning
+"reflecting on the excellent monad intro from @jessitron, I wish #liftweb's Box type would be more mainstream.."
+- crap it makes me want to learn extremecarving.. again.. #alpine #snowboarding
+"not a fan of bdd/spec style testing, slows me down way too much to phrase my assertions. I wonder what it brings to the table in return.."
+", slides   excellent talk on loosely coupled services, tons of great ideas here"
+it was fun to watch my mind adopting to #intellij idea. got from 'cant see shit' to using shortcuts without thinking a bit in a few weeks
+"Hi, my car keeps on claiming the window washer ran out. No problem Sir,please bring in the car and we'll fill up for you.. #bmw dealer #fail"
+"best part of the night, reading on some tech news while trying to get your 10 months old to sleep at #4am"
+"just had 40 mins to watch @dpp 's   - good reasoning on OO shortcomings, great talk!"
+'anyone got a custom rom for my.. oven?'
+"if it's Monday, it's #snooker time!"
+"is it possible to send a pull request on #github and get it attached to an existing issue instead of becoming a new one, anyone knows?"
+reading The Register   it really makes me wonder - I'm the last person on Earth who actually loves #gnomeshell or what?!
+I had just hit the moment when one decides to rather die as an old fat happy bastard than try to keep up with that #insanity
+...and they have a plan...
+a nice recap of android's last year
+"save half on 2012 Manning bestsellers   - grabbed #scala in depth, hope it gets here fast"
+"the only proper thing to do at the last day of the year is go out #snowboarding, glide in powder and pull that method in the funpark"
+testing the new sbt-based scala compiler in #intellij idea
+time to upgrade my hobby projects to #scala 2.10. I wonder how rough this path will end up to be
+spotted a #Mercedes #CLA? this afternoon at Gellert Hill - amazing what things can happen once you leave your hole
+#Budapest tourist
+it's official: I'm hooked on #Homeland. haven't seen such an excellent drama for years
+Agent ID confirmed. Welcome w1f. #ingress
+I can perfectly accept that our world ended yesterday and most of us got migrated successfully to a new one.Were Mayans aware of #LiveRebel?
+hmm not to be too picky with a nice offer but the $50 #intellij #idea deal quickly became EUR47.26 :( #europesucks?
+"not that I aint love my #sennheiser #ie8 earphones any more, but still, #JRebelRocks ;)"
+best #RPi case ever :)
+"xmas starts early this year \O/ @Raspberry_Pi arrived, waiting to get @OpenELEC installed.. fun time awaits!"
+my favourite @chesscom android bug: welcome to the dark side :)
+I do fear the day when #google kills #reader -   - anyone aware of a better online #rss reader?
+"Just learned about Sturgeon's law ""ninety percent of everything is crap""  . Never knew it has a name.."
+hmm valve's #steambox might change linux gaming for ever. exciting times ahead
+"watching the #snooker UK championship final. awesome frames, it's really head to head.. wonder who will come out on top"
+learning #idea shortcuts after #eclipse feels like learning chinese from scratch - it bends my mind so hard I hear it creaking
+"hunting down misc io lags on my #arch #linux with `iotop -obtqqq` - reduced ext4 commit logs, installed profile-sync-daemon. #needforspeed"
+"test driving #intellij #idea for about the 4th time. Darcula theme is awesome, #scala support is promising, I wonder how long it will stick"
+get rollin' with #scala #macros
+"it might sound surprising but when it comes to #humans and #planning, being predictable scores higher than most other skills"
+interesting thread on the end of scala/.NET   @domokost care to comment on the second post regarding the future of .NET?
+the million dollar question is out there. what would YOU do?
+looking at the current state of java 7 I'm shocked by the fact that #java 6 public updates will end in February 2013..
+the new #bmw 3 GT   - f.ugly redefined :)
+still amazed of the complexity of the #web pageflow challenge:   and how elegant #liftweb handles it
+"meet Liberation Mono, the most beautiful monospaced #coder #font ever for your favourite IDE -"
+howto #journalctl   on #linux
+12.01
+"for everyone believing that the world ends in 2012 - beware, this is your last paid day at work!"
+0.86% of US/EU population is employed as a software developer    I'd wonder how many'd reason about foldl :)
+"Tisztelt FelhasznÃ¡lÃ³nk, LeiratÃ¡sÃ¡t az alÃ¡bbi e-mail cÃ­mmel sikeresen teljesÃ­tettÃ¼k #szanalom #onlinemedia #maxima #invitel #2012"
+Coconut Almond Fudge Chip FTW!
+"first week of #coursera Think Again - How to Reason and Argue course - just started watching the videos, looks like fun!"
+"finishing playing #snooker at 12am, #coursera #cryptography assignment at 3am, playing with the kid from 7. feels like one busy schedule"
+Santa Claus brings GTA: Vice City this year for android   sounds like an instant get
+"being up at 7 on every Sunday is one of the most surprising, disturbing and unexpected side effects of having a kid"
+on currying in haskell and scala. haskell is the first commitee design I've seen which actually worked.
+"installed #linuxmint 14 for my wife. a perfect home user distro, seamless install, fresh look, everything works out of the box. love it!"
+"40% off of #pragprog books today, go make your deal with them. my choice was 7 databases in 7 weeks, pretty curious on that one"
+anyone has a gallery of historical #Enlightenment release screenshots? which one was the one with the lamps enlightening the active desktop?
+"get rollin with #Slick, upcoming book online at"
+totally addicted on #getpocket   - @pnc_ thx for the hint :)
+haven't had hangover for some months now. I was almost missing it..
+"found a way to get instant #cloudfoundry access.. cool, but still in love with #heroku"
+find obsolete #scala project dependencies with the #sbt-updates-plugin   - no more manual hunting of new libs!
+"got a new freetype render engine (hey #infinality, you rock!), new fonts, icons, background, new gtk3 theme, a whole new desktop experience"
+installed Topicons   extension for Gnome 3.6.2 to get the classic systray stuff back - yay!
+"""The choice to cluster #WebLogic Server instances is transparent to application
+developers and clients."" - lies damn lies and marketing docs"
+"na legkozelebb legyen az h a dobos, a basszer es #dianakrall jazzt jatszik feleennyiert, a masik harom meg mehet vissza a balettbe ugralni"
+aaaa ezert trukkoztem a valszammal vpben h most hobbibol tanuljam magamtol? arrrrgh.. #coursera #cryptography rulez
+"visualvm 1.3.5 is out - just pushed the updated #archlinux package to AUR, have fun"
+The key to beating Prince [difficulty] turns out to be similar to that for driving in Massachusetts: ratchet up the aggression level. #civ4
+filling out the steam linux survey: for how many years are you using linux? *counting* 16.. yay!!
+"had set up #crashplan in minutes over #samba with #autofs to my nas. feel much better now, time to catch some sleep :)"
+android 4.2 keyboard is still nowhere compared to #swype
+"just flashed   to try out the new Photo Sphere from android 4.2, pretty cool stuff"
+"just read ""Maven 3--the simplest possible build tool for Java EE projects"" - it must be really hard to be a 'java rockstar' these days :P :D"
+"and while you're at it, leech your free Crossover Linux/Mac today at   too"
+"gotta love halloween at #manning - 50% discount of any purchase with code ""dotd1031"". here comes my #akka in action!"
+"I have nothing against theories but find it amusing that every time mother nature burps, someone screams HAARP"
+a better git log setup
+bard's tale for android rocks
+Star Citizen preview: the open-world space sim from the creator of Wing Commander
+"#g+ is write-only, #twitter sucks for sharing news, facebook is personal. hey #google just give it up and restore our #greader shares!!"
+news of the year probably:
+"totally fed up with the #popcorn C200 streaming 2mb/s over SMB, want a fanless XBMC setup as soon as possible.. where's my #raspberry_pi?!"
+"Name your price for amazing games, help charity: Torchlight, Rochard, Shatter, S.P.A.Z, Vessel, Dustforce!   via @humble"
+#ScalaIDE #archlinux package updated to 2.1.0M2.. enjoy!
+"""@ScalaIDE: #ScalaIDE 2.1.0 M2 is out! Get it while it's fresh.. "" - arch package coming soon as I get home today"
+I've yet to see a single good joke on the new #iphone. something must have gone really miserable today :)
+"#wicket 6 is out in the wild, natives celebrate worldwide.. \O/"
+"man, guava sucks. ugly as hell, completely unreadable, the API lacks any sensible design. I wonder who approved that piece of shit at Google"
+is that some f* joke that such gets into the news? and she's one of the most paid managers worldwide?! I'm speechless..
+"Functors, Monads, Applicatives – can be so simple"
+"""The number of Maven dependencies: unknown (suspect uncountable)"""
+return type inference with higher order kinds.. lovely!
+WANDA!!! :D
+"nem hittem h valaha őszintén megkérdőjelezem a DDD téziseit, de eljött a pillanat, a könyv bevezetője hibátlanul érvel:"
+slf4j implementáció.. a logback configot úgyse sikerült soha maradéktalanul megértenem :)
+itt a Functional Programming in Scala MEAP!
+"bakker, 2012 van.. írjam be a naptárba h legközelebb 2016-ban dől be minden február végén?!"
+"science, fiction  </a>"
+hát.. ez egy kicsit kék lett :))
+</a>
+"ez nagyon jó.. nem language guide, inkább scala style guide, nagyon hasznos!"
+cool - JIRA Greenhopper Scrum Board with Touchscreen
+..and a pure #scala #wicket #sbt helloworld example for your weekend hangover (it did help mine)
+for my fellow archers and wicket fans
+"cut the rope ported to HTML5, behind the scenes"
+java7 code examples (feels like a minor release of the GNOME project :))
+"android app to browser, browser to app://.. smart :)"
+minden áldott nap elképeszt mekkora rakás szar ez a team foundation server #megunhatatlan
+azért a samsung tényleg feszegeti azt a pofonosládát.. :D
+magyar java blogok egyben
+"you're da firestarter, twisted firestarter :D #hacktheworld"
+</a>
+na ez már DSL :)
+ROTFL
+"szerintem ez nem monad hanem egy sima applicative functor, de teljesen érthető-követhető magyarázat"
+"normális wls mvn plugin? el se hiszem, ezt tesztelni kell :)"
+legjobb projectnév ever
+"Megvolt az első refund a marketről, ez a slideit nem ér 20 forintot :) Swype for everyone!"
+"find yourself a way inside: google ""schemer.com/invite/"""
+"it's evolution, baby"
+"van valakinek tapasztalata dia scannerekkel? lenne pár kérdésem, ha valaki tud segíteni.."
+"open source design clocks, állat :)"
+eat my cake - an illustrated dependency injection alternative using the cake pattern
+hohóó új magic étlap :)
+"Oracle WebLogic Server 12c announcement scheduled for December 1st, 2011."
+Scalable Component Abstractions
+"clipboard manager gnome-shellhez, yaourt gpaste"
+phantom types érthetően..
+"hát, good luck :))"
+"professional indian slang: ""retroed JS"" - unknown old version of a certain javascript file pulled out of nowhere and slipped into a release"
+ejj de zűrös
+for all you Q1 fans out there.. 'WHAT THE HELL HAPPENED?' ;)
+make the new gmail theme compact - rtfm :)
+sose gondoltam volna h h rászokok a twitterre de az egyetlen logikus lépés a greader elvesztése után - hello world :)
+A Better Way to Share Posts in Google Reader   +1 :)
+Legalább négy CA-t kompromittáltak június óta   lassan beismerhetjuk h az ssl mint otlet nem valt be
+Legalább négy CA-t kompromittáltak június óta
+"""Coders are special. We are expected to know how to do things"
+pragdave |     like
+5 things my 4-year-old taught me about technology
+insecure » THC SSL DOS Tool Released   RT @agdolla let the fun^H^H^Htests begin.. ;)
+AUR (en) - scala-ide   fogyasszátok :)
+"Google Reader Getting Overhauled, Removing Your Friends   miert megint az f-word jut eszembe?"
+Hudson vs. Jenkins: Is it too soon to declare a winner?   lessons to learn for oracle
+Hudson vs. Jenkins: Is it too soon to declare a winner?
+Java EE6 Events: A lightweight alternative to JMS - Java Code Geeks   nice
+Three ways to stimulate your creativity
+"Android 4.0 Ice Cream Sandwich now official, includes revamped design, enhancements galore"
+natch3z: Read Request Body in Filter   ez ma jól jött (csoki mehet dénesnek)
+Gymkhana paródia fillérekből - Autónavigátor.hu   falusi gymkhana rulez.. állat a verda hangja is 30-nál :D
+Na honnan lopták az új amerikai adórendszert?   simcity for prez!! :)
+Apache mod_rewrite reverse proxy megkerülés   milyen egyszerű ötlet.. elképesztő
+"04. October, 2011   oh yeah :)"
+Heroku gets Scala
+HWSW Mobil - Hatalmas biztonsági rés az androidos HTC-ken
+Douglas M. Auclair (geophf): Monads in Java   ez állat :)
+GNOME 3.2 Release Notes   mehet az arch countdown :)
+Interactive Vim tutorial   nincs több kifogás :))
+"Google Reader, Replaced by Google Sites in the Navigation Bar   oh yeah, fuck you too"
+Olcsó Android tablet újratöltve   30 rongyot megér.. gondolom
+Git Wicket running on Heroku
+"News   Logback-classic now supports printing stack traces ""root cause first"" - nice"
+"ORM is an anti-pattern | Seldo.Com Blog   a cím túlzás, de jó gondolatok"
+"Oracle Acquired Innovation: How It Works - YouTube   Márktól, LOL"
+Értelmezési gyakorlatok fordítóknak - Kovácsné
+"Microsoft Abandons Flash, Silverlight in Windows 8   oh well :)"
+Dependency Injection   Tony Morris DI-ről.. még én is emésztem
+"Can Scala bring back the Joy of Programming?   a cikk cime rossz ill nem scalarol szol, amugy tok egyetertek vele"
+OnLive Linuxon Wine-nal
+Welcoming WebSphere 8 to the Java EE 6 Parade   azért szép h az Oracle meg leghátul kullog a Weblogickal..
+"Kopint: R.I.P. - kockablog   ""Nemzeti"", szép.."
+Mozilla Shows off Firefox Tablet UI
+Dinnyeanalízis - Android   FYKI :D
+Java Is #1 and Still Climbing
+"banki gyalog-galopp: ""a new loan tool"".. #imrealkot"
+Free PDF: Scala for the Impatient
+Funny Computer Programming Quotes   ROTFL :)
+Steve Jobs Resigns as CEO of Apple
+Utópia a tengeren – a szabadelvűség szigetei | pazar cuccok
+Explore the ancient and modern with Rome in 3D   cool.. de mikor lesznek már rá játékok? :)
+"ThoughtWorks Technology Radar   itt a pápa új sóderje, have fun.."
+Vanilla Java: Strange Hello World in Java   uhhh
+Apple Tampered with Evidence in German Apple v Samsung Case > Comments   hajrá apple!! :D
+"Breaking: Google Buys ‘Android Partner’ Motorola For $12.5 Billion | TechCrunch   dude, WTF?! :)"
+What features of Java have been dropped in Scala? - Java Code Geeks   nice wrap-up
+Eközben Svájcban
+Kitiltották Európából a Samsung Galaxy Tab 10.1-et - HWSW   APPLE FOR PREZ!!
+"50 mega lájk, köszönöm emberek! - Jakab Andor   új magyar nemzeti hősünkről"
+"Tagged Architecture - Scaling to 100 Million Users, 1000 Servers, and 5 Billion Page Views"
+4 Mistakes To Avoid On Apache Tomcat
+"Nem túl vidám fotó: Brian Day   állat.. ""kora reggel elegem van"" fotók :)"
+#2334040 - Pastie   legszebb quicksort amit valaha láttam..
+Simple Security Rules   security 1x1 + a lockheed story :)
+21 Google Plus circles you can actually use.   epp tegnap agyaltam hasonlon :))
+"Vége a civilizációnak, ha nem tanítjuk kézzel írni a gyereket? - gyerekszemle   mar 42 allamban nincs folyoiras oktatas.."
+"TripAdvisor Strategy: No Architects, Engineers Work Across the Entire Stack"
+"Rethrick Construction   ""Yet, I never once felt productive"", érdekes"
+Csirkemell a metróperonról okostelefonnal | pazar cuccok
+What are App Tabs? | How to | Firefox Help   ezt épp most fedeztem fel a saját firefoxomban.. boggle
+CK: Scala function objects from a Java perspective   csak h rendbe rakjuk ezt a closure temat
+"[TeamFoundationServer] elmondom mivan de csak egyszer, szoval"
+Catan v2.1.0 | MyDroid Free Software For Android OS
+"Preview Gmail's New Interface   azért ezt picit szokni kell, pár vonal nekem hiányzik innen-onnan :)"
+Google Calendar's Design Refresh   like
+Ni!   ez kész :))
+Google Plus Review   amíg nincs meghívónk..
+Pay as you go sim with data Wiki   nyaraláshoz
+Simply Explained: Brute Force Attack   :)))
+Critically acclaimed shooter Team Fortress 2 goes free-to-play | VentureBeat   welcome :)
+"OSGi: Not Easy to Use. Not as Productive as it Should Be, says Rod Johnson   kommentek is erdekesek"
+az megvan hogy Microsoft Team Foundation Serveren egy
+"Eclipse Packages | Eclipse Packages   Indigo is here. hail to the king, baby!"
+"Eclipse.org - Indigo Simultaneous Release   Indigo is here, hail to the king, baby!"
+A valaha kitalált legötletesebb papírszatyor - CsomagolásDesign   hát ez állat
+Eclipse Indigo unveiled   már nincs egy hét.. :)
+Weblogs Forum - Scala: The Static Language that Feels Dynamic   nice tour
+"How Hackers Stole 200,000+ Citi Accounts Just By Changing Numbers In The URL - The Consumerist   Marcitól, ROTFL :)"
+Java - Lambda Syntax Alternatives   szép kilátások :)
+QWickie — Apache Wicket Eclipse Plugin   cool
+Daily Dose: Oracle Switches to OpenJDK for Java 7
+Settlers of Catan board game coming to Android. Basic and full expansion editions to choose from.
+"""GlassFish is Business Class"""
+Mozilla Labs Bring The Webian Shell - A Full Screen Web Browser Concept
+kjozsa's gist: 1013940 — Gist   aspect of the day: enforce compile-time client side schema validation usage with JAX-WS
+RSA Admits SecureID Tokens Have Been Compromised   pech :)
+UN Declares Internet Access a Human Right   lol?
+Zero-downtime Deployment (and Rollback) in Tomcat; a walkthrough and a checklist
+"FaceNiff: session lopás, zárt hálózaton!   SSL vajonmi :)"
+Evolúciónk..
+Mock Me With Fewer Words
+Java EE 6 and Scala » Source Allies Blog   bocitól
+Oracle Donates Hudson Project to Eclipse
+Jön a Google Wallet: a mobil pénztárca
+"Egy új pixelart nagyító algoritmus   Sanyitól, ez állat :)"
+Google Wants to Kill the URL: Chrome 13 Lets Users Hide the Address Bar
+"Jönnek a Rejtő-képregények iPadre   na, legalább ez :)"
+"I just grabbed @AppSumo action video, Google AdWords secrets for Free. Get yours"
+"How to use rsync backup for Android to make incremental backups of your Android phone   Bodtól, ügyes"
+"The Joel on Software Discussion Group (CLOSED) - Why I Hate Frameworks   yeah, right!"
+Heroes of Might and Magic 2 ported to Android (Download link)   wtf!! :)
+Bump – Fájlátvitel egyszerűen az okostelefonok között   Barnaby?
+Megérkezett a fizetős Android Market Magyarországra is
+Mindennapi döbbenetünket... - Belsőség   Hobától :)
+GitHub Mylyn connector for Eclipse   wow
+"Android: Past, Present and Future"
+Portable Global JNDI names   f* high time
+Google Talk and AIM to Become Interoperable   joining forces? :)
+Microsoft To Acquire Skype for $8.5 Billion
+Kedvező roaming a Vodafone-tól   napi 50mb jo ajanlat
+A legjobb budapesti gyros nyomában: a toplista
+"PSN Fail Turns Epic: User Data of All PSN Users Compromised   oops, 70m users + credit card info gone :)"
+"Programming in Scala, First Edition, Now in HTML"
+Now Available - Portal 2   the cake 2 is a lie too :)
+Recent codes - RefactorMyCode.com   mekkora ötlet
+Magic Burger a Profi közért előtt - Óbudakocsma   nagyon ígéretes..
+How to add a version number to your hudson-built maven jar | Hints and Kinks   +buildnumber plugin
+mai aranyköpés: álljunk is neki ezt implementákolni..
+Pillantás a jövőbe
+"World Premiere: BMW M3 Pickup   a legjobb eddig a mai kamuk közül, kéne :D"
+Mától elérhető az alkalmazáson belüli vásárlás a Marketen
+"Gyorsteszt: Elixir - minden, amit a telefonodról tudni akartál, de sose merted megkérdezni   Zotyótól, jónak tűnik"
+Keys for Motorola Phones’ Bootloader Finally Hacked!   hellomoto :)
+"AppBrain Android market | LCDDensity for Root   a dialer nem megy vele de amúgy nagyon állat, érdemes kipróbálni"
+Gtk+ 3.2 Runs Any Gtk+ Application in a Browser
+FPse now out on the Android Market. Good alternative if you can't get an Xperia Play.   GTA2 videó is nagyon csábító.. :)
+Sci-fi RPG Cyberlords - Arcology lands on Android Market for free   ez jópofa
+The Right Office Apps For Android At Work
+"Support #UnlockMoto, add a #twibbon now! -   - Create one here -"
+"GNOME 3 Removes Minimise, Maximise Buttons   érdekesen hangzik, kíváncsi leszek :)"
+"Upgrading from Windows 1.0 to 7   cool, how you've changed! :)"
+Google Pulls 21 Malware Apps Posing as Bogus Versions of Real Apps
+Architectural Best Practices
+Sherman's Lagoon Comic Strip -- 2/27/11   legjobb :)
+Llama for Android Automatically Sets Ringer Profiles   free Locale light
+'Most Tourists Take Pictures from the Same Spot'   do you? :)
+Why Use Rubinius?   so which personality are you? :)
+teamocil: Ruby and YAML-powered terminal layout manager for tmux   geek joke of the day: terminal layout manager ;)
+github-trends: RSS feeds for trending GitHub projects by language
+Like Pinball? Download Pinball Deluxe for Android   végre egy jó játék androidra!
+Bash Completion for Maven
+"Weekend Deal - Civilization V and Civilization IV: The Complete Edition   civ4+col 6.5 euroert hetfoig, vigyetek :)"
+"Google's New Navigation Bar, Publicly Available   ""After more than 6 months of testing"" - lol?"
+"Next-gen Snapdragon Mobile Chip: Quad-core, 2.5GHz   ezek állatok :)"
+msporny/dna - GitHub   ez a jövő.. personal DNA patchelés githubon :)))
+PORTAL 2 AVAILABLE NOW FOR PRE-ORDER   április 18 megy a naptárba :)
+"GlassFish deploy using REST. Get it? No, Post it!"
+GitHub App for Android – Hubdroid V2.0
+Unreal 3 engine az LG Optimus 2X-en (videóval)
+Néhány módszer a munkahelyi teljesítmény javítására
+You’re Not Crazy: Google I/O Registration Sold Out in 59 Minutes
+"American Airlines Android App Ready for Takeoff   mobile boarding pass, nem semmi"
+"Git by a Bus   RT @keo, nagy ötlet. van svn-re is kezdemény őskövületeknek :)"
+Too Many E-Mails On Your Android? GMail Alias & Filtering Are Your Friends [TIPS & TRICKS]
+Worms for Android is Out – Go Get It For $2.99
+Ne beszélj szép nőkkel vizsga előtt   mondjuk nyilván nagyobb a load ha több process fut ;)
+"After Further Analysis: No Stolen Java Code Shipping with Android, After all"
+Gmail users angry as Google replaces Reader link with Photos – Tech Products & Geek News | Geek.com   +1
+Android Design eszközök
+Port Your Number To Google Voice For $20   még egy lépés..
+"Eclipse Launches Orion, Browser-based Web Development Tool   nem tudtam mi hiányzott :P"
+"Nipponország naposkertje/magyar ugar: 1:0   Sabolctól, így fest a világ túloldala :)"
+"shoes/shoes - GitHub   ez a _why egy zseni volt, esetleg ufo.. és nagyon kiváncsi lennék merre van most :)"
+Geeks   :DDD
+"Motorola Atrix 4G | Android Tapp. Android App Reviews   a teló is tetszik meg a dokk is hatalmas ötlet, kéne :)"
+Honeycomb: Android for Tablets   a tablegmail 00:45-től nagyon üt
+vimgolf: The fewest keystrokes wins - in Vim   geek sports rule :)
+Quick Thoughts on Oracle/Apache and the Java TCK
+J-_-L | Use fresh Ruby as your shell!   unix shell rubified.. beteg :)
+Adding ‘addremove’ to Git | Ctrl-C   fair enough :)
+Java EE Productivity Report 2011 | ZeroTurnaround.com
+Heroku Gets Sweet Logging
+Reader2Twitter - Sync Your Google Reader Shared Items to Twitter   régóta keresek ilyet :)
