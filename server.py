@@ -13,14 +13,14 @@ app = Flask(__name__)
 def static_from_file():
     with open('input.txt', 'r') as file:
         text = file.read().replace('\n', '')
-    image = wcloud.render2image(text)
+    image = wcloud.render(text)
     return serve_pil_image(image)
 
 
 @app.route('/<username>')
 def index(username):
     text = fetch_tweets(username)
-    image = wcloud.render2image(text)
+    image = wcloud.render(text)
     return serve_pil_image(image)
 
 

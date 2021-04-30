@@ -1,5 +1,5 @@
 matplotlib==3.2.2
 wordcloud
-python-twitter-v2
+tweepy
 flask
 
